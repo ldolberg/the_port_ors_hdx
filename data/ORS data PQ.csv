@@ -1,0 +1,444 @@
+country;appeal_id;amount;appeal_title;decision_date;donor;emergency_id;emergency_title;contribution_id;is_allocation;project_code;recipient;status;year;Appeal Short Title;FTS Sector Short;ProjectID
+Burkina Faso;1075;312175;Burkina Faso 2015;24/02/15;Switzerland;16529;Burkina Faso 2015;225247;0;BFA-15/MS/76792/120;United Nations High Commissioner for Refugees;Paid contribution;2015;BFA-15;MS;76792
+Burkina Faso;1075;2382260;Burkina Faso 2015;24/02/15;Private (individuals & organisations);16529;Burkina Faso 2015;225248;0;BFA-15/MS/76792/120;United Nations High Commissioner for Refugees;Paid contribution;2015;BFA-15;MS;76792
+Burkina Faso;1075;127065;Burkina Faso 2015;23/03/15;Monaco;16529;Burkina Faso 2015;228962;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;148971;Burkina Faso 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;227211;0;BFA-15/H/77694/6079;Save the Children ;Commitment;2015;BFA-15;H;77694
+Burkina Faso;1075;464468;Burkina Faso 2015;13/04/15;Sweden;16529;Burkina Faso 2015;231593;0;BFA-15/H/77164/124;United Nations Children's Fund;Paid contribution;2015;BFA-15;H;77164
+Burkina Faso;1075;3654000;Burkina Faso 2015;17/02/15;Japan;16529;Burkina Faso 2015;228926;0;BFA-15/SNYS/79534/R/561;World Food Programme;Paid contribution;2015;BFA-15;SNYS;79534
+Burkina Faso;1075;29222;Burkina Faso 2015;23/04/15;Various Donors (details not yet provided);16529;Burkina Faso 2015;228927;0;BFA-15/SNYS/79534/R/561;World Food Programme;Paid contribution;2015;BFA-15;SNYS;79534
+Burkina Faso;1075;1447658;Burkina Faso 2015;23/04/15;World Food Programme;16529;Burkina Faso 2015;228929;1;BFA-15/F/77844/561;World Food Programme;Paid contribution;2015;BFA-15;F;77844
+Burkina Faso;1075;3198287;Burkina Faso 2015;23/04/15;World Food Programme;16529;Burkina Faso 2015;228931;1;BFA-15/H/77836/561;World Food Programme;Paid contribution;2015;BFA-15;H;77836
+Burkina Faso;1075;1459035;Burkina Faso 2015;24/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;227067;0;BFA-15/H/77553/8772;Médecins du Monde France;Commitment;2015;BFA-15;H;77553
+Burkina Faso;1075;1144781;Burkina Faso 2015;03/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;225755;0;BFA-15/H/77614/5170;Hilfe zur Selbsthilfe e.V.;Commitment;2015;BFA-15;H;77614
+Burkina Faso;1075;1736726;Burkina Faso 2015;08/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;230052;0;BFA-15/H/77224/5271;ACF - France;Commitment;2015;BFA-15;H;77224
+Burkina Faso;1075;650054;Burkina Faso 2015;23/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;229212;0;BFA-15/MS/76792/120;United Nations High Commissioner for Refugees;Paid contribution;2015;BFA-15;MS;76792
+Burkina Faso;1075;1122334;Burkina Faso 2015;01/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;227547;0;BFA-15/H/77143/13863;Alliance for International Medical Action;Commitment;2015;BFA-15;H;77143
+Burkina Faso;1075;433369;Burkina Faso 2015;28/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;229213;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;464468;Burkina Faso 2015;14/04/15;Sweden;16529;Burkina Faso 2015;231669;0;BFA-15/H/77224/5271;ACF - France;Commitment;2015;BFA-15;H;77224
+Burkina Faso;1075;225219;Burkina Faso 2015;17/06/15;Carry-over (donors not specified);16529;Burkina Faso 2015;233112;0;BFA-15/SNYS/79534/R/561;World Food Programme;Paid contribution;2015;BFA-15;SNYS;79534
+Burkina Faso;1075;345756;Burkina Faso 2015;13/05/15;France;16529;Burkina Faso 2015;233122;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;16251354;Burkina Faso 2015;20/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;228799;0;BFA-15/H/77164/124;United Nations Children's Fund;Paid contribution;2015;BFA-15;H;77164
+Burkina Faso;1075;465170;Burkina Faso 2015;06/03/15;Sweden;16529;Burkina Faso 2015;231704;0;BFA-15/MS/77571/5834;Norwegian Refugee Council;Commitment;2015;BFA-15;MS;77571
+Burkina Faso;1075;212514;Burkina Faso 2015;13/02/15;France;16529;Burkina Faso 2015;229830;0;BFA-15/SNYS/79534/R/561;World Food Programme;Commitment;2015;BFA-15;SNYS;79534
+Burkina Faso;1075;963000;Burkina Faso 2015;23/04/15;Allocation of unearmarked funds by WFP;16529;Burkina Faso 2015;228928;0;BFA-15/SNYS/79534/R/561;World Food Programme;Paid contribution;2015;BFA-15;SNYS;79534
+Burkina Faso;1075;500000;Burkina Faso 2015;31/03/15;Canada;16529;Burkina Faso 2015;227753;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;1031000;Burkina Faso 2015;17/02/15;Japan;16529;Burkina Faso 2015;227754;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;2321554;Burkina Faso 2015;09/01/15;United States of America;16529;Burkina Faso 2015;227755;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;390023;Burkina Faso 2015;04/02/15;European Commission's Humanitarian Aid and Civil Protection Department;16529;Burkina Faso 2015;224908;0;BFA-15/H/77218/5271;ACF - France;Commitment;2015;BFA-15;H;77218
+Burkina Faso;1075;500000;Burkina Faso 2015;09/01/15;United States of America;16529;Burkina Faso 2015;227757;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Burkina Faso;1075;956956;Burkina Faso 2015;09/02/15;Switzerland;16529;Burkina Faso 2015;227758;0;BFA-15/F/77845/561;World Food Programme;Paid contribution;2015;BFA-15;F;77845
+Cameroon;1076;148741;Cameroon 2015;30/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229421;1;CMR-15/MS/76857/298;International Organization for Migration;Commitment;2015;CMR-15;MS;76857
+Cameroon;1076;150744;Cameroon 2015;30/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229424;1;CMR-15/H/76986/1171;United Nations Population Fund;Paid contribution;2015;CMR-15;H;76986
+Cameroon;1076;346402;Cameroon 2015;30/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229426;1;CMR-15/H/77145/122;World Health Organization;Paid contribution;2015;CMR-15;H;77145
+Cameroon;1076;138413;Cameroon 2015;30/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229429;1;CMR-15/MS/77087/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;MS;77087
+Cameroon;1076;480200;Cameroon 2015;23/02/15;Private (individuals & organisations);16530;Cameroon 2015;225249;0;CMR-15/MS/76182/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76182
+Cameroon;1076;416233;Cameroon 2015;23/02/15;Switzerland;16530;Cameroon 2015;225250;0;CMR-15/MS/76182/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76182
+Cameroon;1076;786782;Cameroon 2015;23/03/15;Canada;16530;Cameroon 2015;228249;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;5800000;Cameroon 2015;17/02/15;Japan;16530;Cameroon 2015;231435;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;311405;Cameroon 2015;22/12/14;Central Emergency Response Fund;16530;Cameroon 2015;231529;1;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;424178;Cameroon 2015;19/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;227912;0;CMR-15/H/76955/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;H;76955
+Cameroon;1076;453515;Cameroon 2015;13/02/15;France;16530;Cameroon 2015;229826;0;CMR-15/SNYS/79171/R/561;World Food Programme;Commitment;2015;CMR-15;SNYS;79171
+Cameroon;1076;2178649;Cameroon 2015;18/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;232952;0;CMR-15/SNYS/79171/R/561;World Food Programme;Commitment;2015;CMR-15;SNYS;79171
+Cameroon;1076;351400;Cameroon 2015;11/05/15;Allocation of unearmarked funds by UNDP;16530;Cameroon 2015;230454;0;CMR-15/A/76985/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;CMR-15;A;76985
+Cameroon;1076;1089325;Cameroon 2015;22/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;233224;0;CMR-15/MS/76182/120;United Nations High Commissioner for Refugees;Commitment;2015;CMR-15;MS;76182
+Cameroon;1076;80000;Cameroon 2015;01/06/15;Economic Community of West African States;16530;Cameroon 2015;231864;0;CMR-15/MS/76185/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76185
+Cameroon;1076;1000000;Cameroon 2015;01/06/15;African Development Bank;16530;Cameroon 2015;231865;0;CMR-15/MS/76182/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76182
+Cameroon;1076;1350000;Cameroon 2015;18/03/15;Japan;16530;Cameroon 2015;227052;0;CMR-15/MS/76185/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76185
+Cameroon;1076;418129;Cameroon 2015;30/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229419;1;CMR-15/A/76834/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;CMR-15;A;76834
+Cameroon;1076;782998;Cameroon 2015;17/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;234241;0;CMR-15/E/77049/124;United Nations Children's Fund;Commitment;2015;CMR-15;E;77049
+Cameroon;1076;2237136;Cameroon 2015;17/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;234242;0;CMR-15/SNYS/79171/R/561;World Food Programme;Commitment;2015;CMR-15;SNYS;79171
+Cameroon;1076;11700000;Cameroon 2015;08/05/15;United States of America;16530;Cameroon 2015;230014;0;CMR-15/MS/76182/120;United Nations High Commissioner for Refugees;Commitment;2015;CMR-15;MS;76182
+Cameroon;1076;1391000;Cameroon 2015;08/04/15;Allocation of unearmarked funds by WFP;16530;Cameroon 2015;228433;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;1149277;Cameroon 2015;08/04/15;World Food Programme;16530;Cameroon 2015;228441;1;CMR-15/H/76798/561;World Food Programme;Paid contribution;2015;CMR-15;H;76798
+Cameroon;1076;442478;Cameroon 2015;07/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;230053;0;CMR-15/H/76576/5271;ACF - France;Commitment;2015;CMR-15;H;76576
+Cameroon;1076;400000;Cameroon 2015;22/04/15;France;16530;Cameroon 2015;230071;0;CMR-15/MS/76185/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76185
+Cameroon;1076;300000;Cameroon 2015;22/04/15;Denmark;16530;Cameroon 2015;230072;0;CMR-15/MS/76185/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76185
+Cameroon;1076;115596;Cameroon 2015;10/04/14;Cameroon;16530;Cameroon 2015;228424;0;CMR-15/F/77731/561;World Food Programme;Paid contribution;2015;CMR-15;F;77731
+Cameroon;1076;124574;Cameroon 2015;08/04/15;Various Donors (details not yet provided);16530;Cameroon 2015;228425;0;CMR-15/E/77049/561;World Food Programme;Paid contribution;2015;CMR-15;E;77049
+Cameroon;1076;875660;Cameroon 2015;08/04/15;Various Donors (details not yet provided);16530;Cameroon 2015;228426;0;CMR-15/E/77049/561;World Food Programme;Paid contribution;2015;CMR-15;E;77049
+Cameroon;1076;8087766;Cameroon 2015;08/04/15;World Food Programme;16530;Cameroon 2015;228434;1;CMR-15/F/76822/561;World Food Programme;Paid contribution;2015;CMR-15;F;76822
+Cameroon;1076;115768;Cameroon 2015;08/04/15;Various Donors (details not yet provided);16530;Cameroon 2015;228437;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;246727;Cameroon 2015;08/04/15;Various Donors (details not yet provided);16530;Cameroon 2015;228438;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;543478;Cameroon 2015;08/04/15;World Food Programme;16530;Cameroon 2015;228439;1;CMR-15/F/77103/561;World Food Programme;Paid contribution;2015;CMR-15;F;77103
+Cameroon;1076;7463678;Cameroon 2015;06/03/15;United States of America;16530;Cameroon 2015;228443;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;125699;Cameroon 2015;26/09/14;Sweden;16530;Cameroon 2015;225176;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;621477;Cameroon 2015;22/12/14;Central Emergency Response Fund;16530;Cameroon 2015;231533;1;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;2000000;Cameroon 2015;18/04/15;Japan;16530;Cameroon 2015;232761;0;CMR-15/P-HR-RL/77890/776;United Nations Development Programme;Paid contribution;2015;CMR-15;P-HR-RL;77890
+Cameroon;1076;4150000;Cameroon 2015;07/04/15;Japan;16530;Cameroon 2015;228511;0;CMR-15/MS/76182/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76182
+Cameroon;1076;3000000;Cameroon 2015;02/03/15;Japan;16530;Cameroon 2015;226534;0;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;600300;Cameroon 2015;23/12/14;Central Emergency Response Fund;16530;Cameroon 2015;225590;1;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;149832;Cameroon 2015;27/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229132;1;CMR-15/H/76955/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;H;76955
+Cameroon;1076;200039;Cameroon 2015;01/05/15;Central Emergency Response Fund;16530;Cameroon 2015;229551;1;CMR-15/P-HR-RL/77245/14812;United Nations Entity for Gender Equality and the Empowerment of Women;Paid contribution;2015;CMR-15;P-HR-RL;77245
+Cameroon;1076;1872184;Cameroon 2015;01/05/15;Central Emergency Response Fund;16530;Cameroon 2015;229553;1;CMR-15/MS/76185/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CMR-15;MS;76185
+Cameroon;1076;1176471;Cameroon 2015;15/01/15;European Commission;16530;Cameroon 2015;228428;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;543478;Cameroon 2015;09/02/15;Switzerland;16530;Cameroon 2015;228429;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;392641;Cameroon 2015;25/03/15;Italy;16530;Cameroon 2015;227268;0;CMR-15/MS/76857/298;International Organization for Migration;Commitment;2015;CMR-15;MS;76857
+Cameroon;1076;3092393;Cameroon 2015;08/09/14;Germany;16530;Cameroon 2015;225172;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;543478;Cameroon 2015;09/02/15;Switzerland;16530;Cameroon 2015;228436;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;1700245;Cameroon 2015;19/12/14;Central Emergency Response Fund;16530;Cameroon 2015;231531;1;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;396831;Cameroon 2015;22/12/14;Central Emergency Response Fund;16530;Cameroon 2015;231535;1;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;326797;Cameroon 2015;05/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;232194;0;CMR-15/CSS/76002/119;Office for the Coordination of Humanitarian Affairs;Commitment;2015;CMR-15;CSS;76002
+Cameroon;1076;11249659;Cameroon 2015;21/01/15;United States of America;16530;Cameroon 2015;225161;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;1000000;Cameroon 2015;01/04/15;Japan;16530;Cameroon 2015;231288;0;CMR-15/P-HR-RL/77245/14812;United Nations Entity for Gender Equality and the Empowerment of Women;Paid contribution;2015;CMR-15;P-HR-RL;77245
+Cameroon;1076;140516;Cameroon 2015;21/12/14;Norway;16530;Cameroon 2015;225174;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;335861;Cameroon 2015;15/04/15;Ireland;16530;Cameroon 2015;233130;0;CMR-15/H/77824/5524;Plan International;Commitment;2015;CMR-15;H;77824
+Cameroon;1076;790514;Cameroon 2015;01/04/15;Canada;16530;Cameroon 2015;230838;0;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;301446;Cameroon 2015;23/12/14;UNICEF National Committee/Spain;16530;Cameroon 2015;226535;0;CMR-15/SNYS/78665/R/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;SNYS;78665
+Cameroon;1076;146125;Cameroon 2015;14/10/14;France;16530;Cameroon 2015;224845;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;2218935;Cameroon 2015;22/12/14;United Kingdom ;16530;Cameroon 2015;229897;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;1659292;Cameroon 2015;18/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;231063;0;CMR-15/H/77873/5465;French Red Cross;Commitment;2015;CMR-15;H;77873
+Cameroon;1076;553097;Cameroon 2015;19/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;231064;0;CMR-15/H/76955/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;H;76955
+Cameroon;1076;200037;Cameroon 2015;24/04/15;Central Emergency Response Fund;16530;Cameroon 2015;228994;1;CMR-15/WS/76501/124;United Nations Children's Fund;Paid contribution;2015;CMR-15;WS;76501
+Cameroon;1076;240317;Cameroon 2015;24/04/15;Central Emergency Response Fund;16530;Cameroon 2015;228996;1;CMR-15/H/76798/561;World Food Programme;Commitment;2015;CMR-15;H;76798
+Cameroon;1076;1012924;Cameroon 2015;08/09/14;Germany;16530;Cameroon 2015;231436;0;CMR-15/MS/77902/561;World Food Programme;Paid contribution;2015;CMR-15;MS;77902
+Cameroon;1076;200796;Cameroon 2015;27/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229135;1;CMR-15/MS/76857/298;International Organization for Migration;Commitment;2015;CMR-15;MS;76857
+Cameroon;1076;3000540;Cameroon 2015;27/04/15;Central Emergency Response Fund;16530;Cameroon 2015;229137;1;CMR-15/SNYS/79171/R/561;World Food Programme;Commitment;2015;CMR-15;SNYS;79171
+Cameroon;1076;325027;Cameroon 2015;21/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;229139;0;CMR-15/WS/76497/5524;Plan International;Commitment;2015;CMR-15;WS;76497
+Cameroon;1076;50000;Cameroon 2015;29/04/15;United States of America;16530;Cameroon 2015;231976;0;CMR-15/MS/76857/298;International Organization for Migration;Commitment;2015;CMR-15;MS;76857
+Cameroon;1076;7544288;Cameroon 2015;09/01/15;United States of America;16530;Cameroon 2015;228431;0;CMR-15/SNYS/79171/R/561;World Food Programme;Paid contribution;2015;CMR-15;SNYS;79171
+Cameroon;1076;541712;Cameroon 2015;20/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16530;Cameroon 2015;228800;0;CMR-15/H/77680/5160;International Medical Corps;Commitment;2015;CMR-15;H;77680
+Chad;1077;325027;Chad 2015;08/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;228135;0;CHD-15/H/77714/5167;Cooperazione Internazionale - COOPI;Commitment;2015;CHD-15;H;77714
+Chad;1077;2491874;Chad 2015;29/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;229443;0;CHD-15/H/77772/13863;Alliance for International Medical Action;Commitment;2015;CHD-15;H;77772
+Chad;1077;1244447;Chad 2015;15/05/15;Central Emergency Response Fund;16531;Chad 2015;230520;1;CHD-15/F/78146/561;World Food Programme;Paid contribution;2015;CHD-15;F;78146
+Chad;1077;2166847;Chad 2015;29/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;229592;0;CHD-15/H/78652/5160;International Medical Corps;Commitment;2015;CHD-15;H;78652
+Chad;1077;6000000;Chad 2015;16/07/15;Central Emergency Response Fund;16531;Chad 2015;234204;1;CHD-15/SNYS/81351/R/6459;UN Agencies (details not yet provided) ;Commitment;2015;CHD-15;SNYS;81351
+Chad;1077;597657;Chad 2015;30/03/15;Sweden;16531;Chad 2015;228301;0;CHD-15/WS/78482/8058;Islamic Relief Worldwide;Commitment;2015;CHD-15;WS;78482
+Chad;1077;1100408;Chad 2015;22/12/14;Central Emergency Response Fund;16531;Chad 2015;228211;1;CHD-15/SNYS/78835/561;World Food Programme;Paid contribution;2015;CHD-15;SNYS;78835
+Chad;1077;147929;Chad 2015;24/04/15;United Kingdom ;16531;Chad 2015;232106;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;1573564;Chad 2015;23/03/15;Canada;16531;Chad 2015;228250;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;2700000;Chad 2015;16/04/15;United States of America;16531;Chad 2015;233037;0;CHD-15/CSS/77670/561;World Food Programme;Paid contribution;2015;CHD-15;CSS;77670
+Chad;1077;393391;Chad 2015;23/03/15;Canada;16531;Chad 2015;228273;0;CHD-15/CSS/77670/561;World Food Programme;Paid contribution;2015;CHD-15;CSS;77670
+Chad;1077;800641;Chad 2015;23/03/15;Canada;16531;Chad 2015;227990;0;CHD-15/MS/77719/5645;CARE International;Commitment;2015;CHD-15;MS;77719
+Chad;1077;200000;Chad 2015;10/04/15;Denmark;16531;Chad 2015;230028;0;CHD-15/MS/77866/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77866
+Chad;1077;100000;Chad 2015;10/04/15;France;16531;Chad 2015;230029;0;CHD-15/MS/77866/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77866
+Chad;1077;320737;Chad 2015;05/09/14;Saudi Arabia (Kingdom of);16531;Chad 2015;230786;0;CHD-15/F/77959/561;World Food Programme;Paid contribution;2015;CHD-15;F;77959
+Chad;1077;812568;Chad 2015;07/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;227983;0;CHD-15/WS/76166/7854;Oxfam Intermon;Commitment;2015;CHD-15;WS;76166
+Chad;1077;1625135;Chad 2015;07/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;227984;0;CHD-15/ER/77526/6458;Agency for Technical Cooperation and Development;Commitment;2015;CHD-15;ER;77526
+Chad;1077;2996000;Chad 2015;22/03/15;Allocation of unearmarked funds by WFP;16531;Chad 2015;227467;0;CHD-15/SNYS/78835/561;World Food Programme;Paid contribution;2015;CHD-15;SNYS;78835
+Chad;1077;396825;Chad 2015;13/02/15;France;16531;Chad 2015;231930;0;CHD-15/A/77684/5271;ACF - France;Commitment;2015;CHD-15;A;77684
+Chad;1077;497788;Chad 2015;13/02/15;France;16531;Chad 2015;231931;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;230000;Chad 2015;22/03/15;World Food Programme;16531;Chad 2015;227468;1;CHD-15/F/78146/561;World Food Programme;Paid contribution;2015;CHD-15;F;78146
+Chad;1077;2212389;Chad 2015;26/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;231596;0;CHD-15/CSS/77670/561;World Food Programme;Paid contribution;2015;CHD-15;CSS;77670
+Chad;1077;4424779;Chad 2015;28/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;231597;0;CHD-15/H/77787/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;H;77787
+Chad;1077;100000;Chad 2015;13/05/15;Central Emergency Response Fund;16531;Chad 2015;230416;1;CHD-15/H/78153/R/122;World Health Organization;Paid contribution;2015;CHD-15;H;78153
+Chad;1077;400000;Chad 2015;13/05/15;Central Emergency Response Fund;16531;Chad 2015;230418;1;CHD-15/WS/77781/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;WS;77781
+Chad;1077;209399;Chad 2015;13/05/15;Central Emergency Response Fund;16531;Chad 2015;230420;1;CHD-15/P-HR-RL/77864/298;International Organization for Migration;Paid contribution;2015;CHD-15;P-HR-RL;77864
+Chad;1077;125000;Chad 2015;13/05/15;Central Emergency Response Fund;16531;Chad 2015;230422;1;CHD-15/H/78152/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;H;78152
+Chad;1077;32000000;Chad 2015;12/05/15;United States of America;16531;Chad 2015;231890;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;45;Chad 2015;12/03/15;Private (individuals & organisations);16531;Chad 2015;227055;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;10395;Chad 2015;12/03/15;Private (individuals & organisations);16531;Chad 2015;227057;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;56117;Chad 2015;12/03/15;Spain;16531;Chad 2015;227058;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;70000;Chad 2015;12/03/15;UN Programme on HIV/AIDS;16531;Chad 2015;227059;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;101994;Chad 2015;05/06/15;Allocation of unearmarked funds by OCHA;16531;Chad 2015;233809;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;92531;Chad 2015;09/06/15;Norway;16531;Chad 2015;233606;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;1465722;Chad 2015;06/06/14;United States of America;16531;Chad 2015;227445;0;CHD-15/CSS/77670/561;World Food Programme;Paid contribution;2015;CHD-15;CSS;77670
+Chad;1077;2675000;Chad 2015;20/02/15;Japan;16531;Chad 2015;231171;0;CHD-15/ER/77862/298;International Organization for Migration;Paid contribution;2015;CHD-15;ER;77862
+Chad;1077;1060087;Chad 2015;08/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;228137;0;CHD-15/F/77711/5645;CARE International;Commitment;2015;CHD-15;F;77711
+Chad;1077;175005;Chad 2015;15/05/15;Central Emergency Response Fund;16531;Chad 2015;230516;1;CHD-15/H/77770/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;H;77770
+Chad;1077;119754;Chad 2015;15/05/15;Central Emergency Response Fund;16531;Chad 2015;230518;1;CHD-15/P-HR-RL/77766/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;P-HR-RL;77766
+Chad;1077;786782;Chad 2015;23/03/15;Canada;16531;Chad 2015;228179;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;782998;Chad 2015;10/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;234088;0;CHD-15/F/77848/14879;Première Urgence - Aide Médicale Internationale;Commitment;2015;CHD-15;F;77848
+Chad;1077;2796340;Chad 2015;22/03/15;Various Donors (details not yet provided);16531;Chad 2015;227446;0;CHD-15/CSS/77670/561;World Food Programme;Paid contribution;2015;CHD-15;CSS;77670
+Chad;1077;1122334;Chad 2015;10/04/15;Germany;16531;Chad 2015;230031;0;CHD-15/MS/77857/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77857
+Chad;1077;597657;Chad 2015;30/03/15;Sweden;16531;Chad 2015;228415;0;CHD-15/WS/78486/8058;Islamic Relief Worldwide;Commitment;2015;CHD-15;WS;78486
+Chad;1077;474947;Chad 2015;13/05/15;Central Emergency Response Fund;16531;Chad 2015;230414;1;CHD-15/MS/77866/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77866
+Chad;1077;28232;Chad 2015;31/03/15;Canada;16531;Chad 2015;227256;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;570884;Chad 2015;06/11/14;Finland;16531;Chad 2015;230785;0;CHD-15/F/77959/561;World Food Programme;Paid contribution;2015;CHD-15;F;77959
+Chad;1077;245151;Chad 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;228535;0;CHD-15/H/77854/14879;Première Urgence - Aide Médicale Internationale;Commitment;2015;CHD-15;H;77854
+Chad;1077;5417118;Chad 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;228529;0;CHD-15/H/77637/5271;ACF - France;Commitment;2015;CHD-15;H;77637
+Chad;1077;733992;Chad 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;228532;0;CHD-15/H/77850/14879;Première Urgence - Aide Médicale Internationale;Commitment;2015;CHD-15;H;77850
+Chad;1077;645992;Chad 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;228534;0;CHD-15/H/77852/14879;Première Urgence - Aide Médicale Internationale;Commitment;2015;CHD-15;H;77852
+Chad;1077;923357;Chad 2015;07/04/15;European Commission;16531;Chad 2015;228510;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;821995;Chad 2015;12/02/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;225498;0;CHD-15/H/78145/5160;International Medical Corps;Commitment;2015;CHD-15;H;78145
+Chad;1077;1133787;Chad 2015;26/02/15;Germany;16531;Chad 2015;225499;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;1041000;Chad 2015;09/03/15;Japan;16531;Chad 2015;225502;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;477042;Chad 2015;04/05/15;Sweden;16531;Chad 2015;230803;0;CHD-15/A/77891/123;Food & Agriculture Organization of the United Nations;Commitment;2015;CHD-15;A;77891
+Chad;1077;520291;Chad 2015;12/03/15;Switzerland;16531;Chad 2015;227054;0;CHD-15/MS/77857/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77857
+Chad;1077;518055;Chad 2015;12/03/15;Germany;16531;Chad 2015;227089;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77867
+Chad;1077;31121840;Chad 2015;22/03/15;Various Donors (details not yet provided);16531;Chad 2015;227455;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;500000;Chad 2015;03/06/15;United States of America;16531;Chad 2015;231973;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Pledge;2015;CHD-15;CSS;77806
+Chad;1077;435730;Chad 2015;03/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;232135;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Commitment;2015;CHD-15;CSS;77806
+Chad;1077;382068;Chad 2015;16/03/15;Sweden;16531;Chad 2015;226780;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;401616;Chad 2015;07/05/15;Central Emergency Response Fund;16531;Chad 2015;229889;1;CHD-15/S-NF/77855/298;International Organization for Migration;Paid contribution;2015;CHD-15;S-NF;77855
+Chad;1077;395257;Chad 2015;01/04/15;Canada;16531;Chad 2015;230839;0;CHD-15/H/77787/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;H;77787
+Chad;1077;100580;Chad 2015;13/05/15;Central Emergency Response Fund;16531;Chad 2015;230900;1;CHD-15/P-HR-RL/78743/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;P-HR-RL;78743
+Chad;1077;118362;Chad 2015;19/03/15;South Africa;16531;Chad 2015;227250;0;CHD-15/CSS/77806/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;CHD-15;CSS;77806
+Chad;1077;1741756;Chad 2015;13/04/15;Sweden;16531;Chad 2015;231129;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Commitment;2015;CHD-15;MS;77867
+Chad;1077;3267974;Chad 2015;22/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;233131;0;CHD-15/MS/77867/120;United Nations High Commissioner for Refugees;Commitment;2015;CHD-15;MS;77867
+Chad;1077;2166847;Chad 2015;23/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;229017;0;CHD-15/ER/77895/7854;Oxfam Intermon;Commitment;2015;CHD-15;ER;77895
+Chad;1077;1408451;Chad 2015;16/04/15;Germany;16531;Chad 2015;231408;0;CHD-15/F/77959/561;World Food Programme;Paid contribution;2015;CHD-15;F;77959
+Chad;1077;167134;Chad 2015;22/05/15;Central Emergency Response Fund;16531;Chad 2015;231172;1;CHD-15/CSS/78733/5139;United Nations Department of Safety and Security;Paid contribution;2015;CHD-15;CSS;78733
+Chad;1077;671141;Chad 2015;10/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;233957;0;CHD-15/A/78285/5645;CARE International;Commitment;2015;CHD-15;A;78285
+Chad;1077;321000;Chad 2015;21/06/15;Allocation of unearmarked funds by WFP;16531;Chad 2015;233683;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;103895;Chad 2015;21/06/15;Carry-over (donors not specified);16531;Chad 2015;233684;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;80000;Chad 2015;12/05/15;Economic Community of West African States;16531;Chad 2015;231888;0;CHD-15/MS/77866/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77866
+Chad;1077;1561867;Chad 2015;11/12/14;Central Emergency Response Fund;16531;Chad 2015;222481;1;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;382320;Chad 2015;30/06/15;United States of America;16531;Chad 2015;233877;0;CHD-15/H/77787/124;United Nations Children's Fund;Paid contribution;2015;CHD-15;H;77787
+Chad;1077;580585;Chad 2015;14/04/15;Sweden;16531;Chad 2015;231670;0;CHD-15/A/77684/5271;ACF - France;Commitment;2015;CHD-15;A;77684
+Chad;1077;243043;Chad 2015;18/02/15;Sweden;16531;Chad 2015;231755;0;CHD-15/A/77891/123;Food & Agriculture Organization of the United Nations;Commitment;2015;CHD-15;A;77891
+Chad;1077;70000;Chad 2015;12/05/15;Economic Community of West African States;16531;Chad 2015;231886;0;CHD-15/MS/77866/120;United Nations High Commissioner for Refugees;Paid contribution;2015;CHD-15;MS;77866
+Chad;1077;1000000;Chad 2015;08/05/15;United States of America;16531;Chad 2015;231203;0;CHD-15/SNYS/78835/561;World Food Programme;Paid contribution;2015;CHD-15;SNYS;78835
+Chad;1077;63278;Chad 2015;22/03/15;Various Donors (details not yet provided);16531;Chad 2015;227456;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;27017826;Chad 2015;09/01/15;United States of America;16531;Chad 2015;227457;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;1086957;Chad 2015;09/02/15;Switzerland;16531;Chad 2015;227458;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;3500000;Chad 2015;17/02/15;Japan;16531;Chad 2015;227459;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;1299232;Chad 2015;29/01/15;European Commission EuropeAid Development and Cooperation;16531;Chad 2015;227460;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Chad;1077;167896;Chad 2015;03/02/15;Chad ;16531;Chad 2015;227447;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;43991;Chad 2015;03/02/15;Chad ;16531;Chad 2015;227448;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;11231;Chad 2015;03/02/15;Chad ;16531;Chad 2015;227449;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;12195;Chad 2015;12/01/15;Private (individuals & organisations);16531;Chad 2015;227450;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;3925;Chad 2015;22/03/15;Various Donors (details not yet provided);16531;Chad 2015;227451;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;1100000;Chad 2015;24/09/13;Various Donors (details not yet provided);16531;Chad 2015;227452;0;CHD-15/F/78014/561;World Food Programme;Paid contribution;2015;CHD-15;F;78014
+Chad;1077;4868906;Chad 2015;01/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16531;Chad 2015;227631;0;CHD-15/F/77847/561;World Food Programme;Paid contribution;2015;CHD-15;F;77847
+Gambia;1078;424178;Gambia 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16532;Gambia 2015;227353;0;GMB-15/F/77618/561;World Food Programme;Paid contribution;2015;GMB-15;F;77618
+Mali;1079;663717;Mali 2015;12/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;230526;0;MLI-15/H/77279/5647;ACF - Spain;Commitment;2015;MLI-15;H;77279
+Mali;1079;580585;Mali 2015;13/04/15;Sweden;16533;Mali 2015;231134;0;MLI-15/P-HR-RL/78135/120;United Nations High Commissioner for Refugees;Commitment;2015;MLI-15;P-HR-RL;78135
+Mali;1079;17111;Mali 2015;13/02/15;UNICEF National Committee/Spain;16533;Mali 2015;226536;0;MLI-15/SNYS/78666/R/124;United Nations Children's Fund;Paid contribution;2015;MLI-15;SNYS;78666
+Mali;1079;5000000;Mali 2015;15/01/15;United States of America;16533;Mali 2015;231230;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;9376207;Mali 2015;08/01/15;United States of America;16533;Mali 2015;231231;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;4387007;Mali 2015;17/05/15;Allocation of unearmarked funds by WFP;16533;Mali 2015;231232;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;312175;Mali 2015;24/02/15;Switzerland;16533;Mali 2015;225253;0;MLI-15/P-HR-RL/78135/120;United Nations High Commissioner for Refugees;Paid contribution;2015;MLI-15;P-HR-RL;78135
+Mali;1079;547196;Mali 2015;24/02/15;Private (individuals & organisations);16533;Mali 2015;225254;0;MLI-15/P-HR-RL/78135/120;United Nations High Commissioner for Refugees;Paid contribution;2015;MLI-15;P-HR-RL;78135
+Mali;1079;977686;Mali 2015;24/02/15;UN Peacebuilding Fund;16533;Mali 2015;225255;0;MLI-15/P-HR-RL/78135/120;United Nations High Commissioner for Refugees;Paid contribution;2015;MLI-15;P-HR-RL;78135
+Mali;1079;253619;Mali 2015;30/06/15;United States of America;16533;Mali 2015;234025;0;MLI-15/SNYS/78666/R/124;United Nations Children's Fund;Paid contribution;2015;MLI-15;SNYS;78666
+Mali;1079;2360346;Mali 2015;23/03/15;Canada;16533;Mali 2015;228251;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;478126;Mali 2015;30/03/15;Sweden;16533;Mali 2015;228305;0;MLI-15/S-NF/75929/8058;Islamic Relief Worldwide;Commitment;2015;MLI-15;S-NF;75929
+Mali;1079;157356;Mali 2015;23/03/15;Canada;16533;Mali 2015;228274;0;MLI-15/CSS/77988/561;World Food Programme;Paid contribution;2015;MLI-15;CSS;77988
+Mali;1079;871460;Mali 2015;24/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;233325;0;MLI-15/H/76984/14658;Médecins du Monde Belgium;Commitment;2015;MLI-15;H;76984
+Mali;1079;1133787;Mali 2015;05/02/15;Germany;16533;Mali 2015;224648;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;907029;Mali 2015;13/02/15;France;16533;Mali 2015;231940;0;MLI-15/F/76843/561;World Food Programme;Commitment;2015;MLI-15;F;76843
+Mali;1079;850340;Mali 2015;18/02/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;225427;0;MLI-15/H/77279/5647;ACF - Spain;Commitment;2015;MLI-15;H;77279
+Mali;1079;615213;Mali 2015;01/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;233687;0;MLI-15/P-HR-RL/76454/5181;Danish Refugee Council;Commitment;2015;MLI-15;P-HR-RL;76454
+Mali;1079;1679307;Mali 2015;28/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;229226;0;MLI-15/H/78033/14879;Première Urgence - Aide Médicale Internationale;Commitment;2015;MLI-15;H;78033
+Mali;1079;9376207;Mali 2015;08/01/15;United States of America;16533;Mali 2015;226652;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;344523;Mali 2015;05/06/15;Allocation of unearmarked funds by OCHA;16533;Mali 2015;233808;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;MLI-15;CSS;77611
+Mali;1079;92531;Mali 2015;09/06/15;Norway;16533;Mali 2015;233607;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;MLI-15;CSS;77611
+Mali;1079;559284;Mali 2015;01/07/15;Germany;16533;Mali 2015;233549;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Pledge;2015;MLI-15;CSS;77611
+Mali;1079;619579;Mali 2015;09/12/14;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;222422;0;MLI-15/H/77393/124;United Nations Children's Fund;Paid contribution;2015;MLI-15;H;77393
+Mali;1079;2013423;Mali 2015;14/07/15;Germany;16533;Mali 2015;234040;0;MLI-15/SNYS/78670/R/561;World Food Programme;Commitment;2015;MLI-15;SNYS;78670
+Mali;1079;782998;Mali 2015;13/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;234042;0;MLI-15/H/76524/6458;Agency for Technical Cooperation and Development;Commitment;2015;MLI-15;H;76524
+Mali;1079;500000;Mali 2015;27/05/15;United States of America;16533;Mali 2015;232367;0;MLI-15/A/76388/123;Food & Agriculture Organization of the United Nations;Commitment;2015;MLI-15;A;76388
+Mali;1079;361197;Mali 2015;01/12/14;Switzerland;16533;Mali 2015;224756;0;MLI-15/CSS/77988/561;World Food Programme;Paid contribution;2015;MLI-15;CSS;77988
+Mali;1079;2508961;Mali 2015;17/10/14;Canada;16533;Mali 2015;226647;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;7000000;Mali 2015;17/02/15;Japan;16533;Mali 2015;226648;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;200000;Mali 2015;30/03/14;Korea, Republic of;16533;Mali 2015;226649;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;9371854;Mali 2015;07/11/14;United States of America;16533;Mali 2015;226650;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;102220;Mali 2015;09/06/15;Denmark;16533;Mali 2015;233147;0;MLI-15/H/76153/6079;Save the Children ;Commitment;2015;MLI-15;H;76153
+Mali;1079;1086957;Mali 2015;01/02/15;Switzerland;16533;Mali 2015;225691;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;28232;Mali 2015;31/03/15;Canada;16533;Mali 2015;228412;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;MLI-15;CSS;77611
+Mali;1079;801947;Mali 2015;17/03/15;Various Donors (details not yet provided);16533;Mali 2015;226645;0;MLI-15/CSS/77988/561;World Food Programme;Paid contribution;2015;MLI-15;CSS;77988
+Mali;1079;1666389;Mali 2015;30/12/14;Denmark;16533;Mali 2015;226644;0;MLI-15/CSS/77988/561;World Food Programme;Paid contribution;2015;MLI-15;CSS;77988
+Mali;1079;2491874;Mali 2015;01/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;228538;0;MLI-15/H/77083/13863;Alliance for International Medical Action;Commitment;2015;MLI-15;H;77083
+Mali;1079;704225;Mali 2015;01/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;228540;0;MLI-15/H/75966/5179;International Rescue Committee;Commitment;2015;MLI-15;H;75966
+Mali;1079;4682942;Mali 2015;17/05/15;Carry-over (donors not specified);16533;Mali 2015;231234;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;1346801;Mali 2015;11/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;227388;0;MLI-15/H/77489/8772;Médecins du Monde France;Commitment;2015;MLI-15;H;77489
+Mali;1079;684624;Mali 2015;09/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;227389;0;MLI-15/ER/76960/5349;Handicap International;Commitment;2015;MLI-15;ER;76960
+Mali;1079;1150000;Mali 2015;09/03/15;Japan;16533;Mali 2015;225609;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;MLI-15;CSS;77611
+Mali;1079;907029;Mali 2015;10/02/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;225428;0;MLI-15/H/75966/5179;International Rescue Committee;Commitment;2015;MLI-15;H;75966
+Mali;1079;1603982;Mali 2015;08/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;230054;0;MLI-15/H/77083/13863;Alliance for International Medical Action;Commitment;2015;MLI-15;H;77083
+Mali;1079;5000000;Mali 2015;15/01/15;United States of America;16533;Mali 2015;226651;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;561167;Mali 2015;18/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;227386;0;MLI-15/H/77279/5647;ACF - Spain;Commitment;2015;MLI-15;H;77279
+Mali;1079;235101;Mali 2015;05/06/15;Sweden;16533;Mali 2015;232192;0;MLI-15/S-NF/77638/5834;Norwegian Refugee Council;Commitment;2015;MLI-15;S-NF;77638
+Mali;1079;238521;Mali 2015;04/05/15;Sweden;16533;Mali 2015;230809;0;MLI-15/A/76388/123;Food & Agriculture Organization of the United Nations;Commitment;2015;MLI-15;A;76388
+Mali;1079;6535948;Mali 2015;15/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;233081;0;MLI-15/SNYS/78670/R/561;World Food Programme;Commitment;2015;MLI-15;SNYS;78670
+Mali;1079;2508961;Mali 2015;17/10/14;Canada;16533;Mali 2015;226646;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;871460;Mali 2015;02/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;232045;0;MLI-15/H/76153/6079;Save the Children ;Commitment;2015;MLI-15;H;76153
+Mali;1079;650000;Mali 2015;17/05/15;World Food Programme;16533;Mali 2015;231237;1;MLI-15/F/76793/561;World Food Programme;Paid contribution;2015;MLI-15;F;76793
+Mali;1079;1106195;Mali 2015;17/05/15;World Food Programme;16533;Mali 2015;231239;1;MLI-15/ER/76788/561;World Food Programme;Paid contribution;2015;MLI-15;ER;76788
+Mali;1079;6048297;Mali 2015;17/05/15;World Food Programme;16533;Mali 2015;231241;1;MLI-15/E/76052/561;World Food Programme;Paid contribution;2015;MLI-15;E;76052
+Mali;1079;61666;Mali 2015;25/03/15;Various Donors (details not yet provided);16533;Mali 2015;231229;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;545750;Mali 2015;10/04/15;Sweden;16533;Mali 2015;231629;0;MLI-15/ER/76570/6079;Save the Children ;Commitment;2015;MLI-15;ER;76570
+Mali;1079;197628;Mali 2015;01/04/15;Canada;16533;Mali 2015;230843;0;MLI-15/SNYS/78666/R/124;United Nations Children's Fund;Paid contribution;2015;MLI-15;SNYS;78666
+Mali;1079;348606;Mali 2015;23/03/15;Switzerland;16533;Mali 2015;230845;0;MLI-15/SNYS/78666/R/124;United Nations Children's Fund;Paid contribution;2015;MLI-15;SNYS;78666
+Mali;1079;1000000;Mali 2015;01/04/15;Japan;16533;Mali 2015;231342;0;MLI-15/P-HR-RL/75855/14812;United Nations Entity for Gender Equality and the Empowerment of Women;Paid contribution;2015;MLI-15;P-HR-RL;75855
+Mali;1079;696702;Mali 2015;14/04/15;Sweden;16533;Mali 2015;231676;0;MLI-15/H/77279/5647;ACF - Spain;Commitment;2015;MLI-15;H;77279
+Mali;1079;1046633;Mali 2015;06/03/15;Sweden;16533;Mali 2015;231713;0;MLI-15/S-NF/77638/5834;Norwegian Refugee Council;Commitment;2015;MLI-15;S-NF;77638
+Mali;1079;243043;Mali 2015;18/02/15;Sweden;16533;Mali 2015;231756;0;MLI-15/A/76388/123;Food & Agriculture Organization of the United Nations;Commitment;2015;MLI-15;A;76388
+Mali;1079;500000;Mali 2015;01/05/15;United States of America;16533;Mali 2015;229903;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Pledge;2015;MLI-15;CSS;77611
+Mali;1079;1106195;Mali 2015;11/05/15;Germany;16533;Mali 2015;231225;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;566893;Mali 2015;27/02/15;Luxembourg;16533;Mali 2015;231226;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;31813;Mali 2015;24/03/15;Slovenia;16533;Mali 2015;231227;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;128850;Mali 2015;15/02/15;Sweden;16533;Mali 2015;231228;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;466648;Mali 2015;15/04/15;Ireland;16533;Mali 2015;233146;0;MLI-15/E/76892/124;United Nations Children's Fund;Commitment;2015;MLI-15;E;76892
+Mali;1079;1089325;Mali 2015;22/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;233148;0;MLI-15/H/76153/6079;Save the Children ;Commitment;2015;MLI-15;H;76153
+Mali;1079;5070894;Mali 2015;17/05/15;Various Donors (details not yet provided);16533;Mali 2015;231233;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;254712;Mali 2015;16/03/15;Sweden;16533;Mali 2015;226773;0;MLI-15/CSS/77611/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;MLI-15;CSS;77611
+Mali;1079;1742;Mali 2015;17/03/15;Various Donors (details not yet provided);16533;Mali 2015;226653;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;3317007;Mali 2015;17/03/15;Allocation of unearmarked funds by WFP;16533;Mali 2015;226654;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;4482604;Mali 2015;09/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16533;Mali 2015;226655;0;MLI-15/SNYS/78670/R/561;World Food Programme;Paid contribution;2015;MLI-15;SNYS;78670
+Mali;1079;47910292;Mali 2015;17/03/15;World Food Programme;16533;Mali 2015;226656;1;MLI-15/F/76843/561;World Food Programme;Paid contribution;2015;MLI-15;F;76843
+Mali;1079;5523687;Mali 2015;17/03/15;World Food Programme;16533;Mali 2015;226658;1;MLI-15/H/76805/561;World Food Programme;Paid contribution;2015;MLI-15;H;76805
+Mali;1079;1202827;Mali 2015;27/02/15;Denmark;16533;Mali 2015;227823;0;MLI-15/SNYS/78666/R/124;United Nations Children's Fund;Paid contribution;2015;MLI-15;SNYS;78666
+Mauritania;1080;113379;Mauritania 2015;04/03/15;Luxembourg;16534;Mauritania 2015;228882;0;MRT-15/CSS/76948/561;World Food Programme;Paid contribution;2015;MRT-15;CSS;76948
+Mauritania;1080;937161;Mauritania 2015;21/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;228914;0;MRT-15/H/76485/R/16611;Medicus Mundi;Commitment;2015;MRT-15;H;76485
+Mauritania;1080;3464390;Mauritania 2015;24/09/14;United States of America;16534;Mauritania 2015;219725;0;MRT-15/ER/77503/R/6079;Save the Children ;Paid contribution;2015;MRT-15;ER;77503
+Mauritania;1080;125478;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;228808;1;MRT-15/H/76903/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;H;76903
+Mauritania;1080;110398;Mauritania 2015;22/04/15;Various Donors (details not yet provided);16534;Mauritania 2015;228812;0;MRT-15/SNYS/81242/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;SNYS;81242
+Mauritania;1080;566893;Mauritania 2015;13/02/15;France;16534;Mauritania 2015;231939;0;MRT-15/A/77138/5647;ACF - Spain;Commitment;2015;MRT-15;A;77138
+Mauritania;1080;1118568;Mauritania 2015;02/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;233688;0;MRT-15/H/77505/R/6079;Save the Children ;Commitment;2015;MRT-15;H;77505
+Mauritania;1080;530223;Mauritania 2015;20/03/15;Finland;16534;Mauritania 2015;227735;0;MRT-15/SNYS/79080/R/561;World Food Programme;Paid contribution;2015;MRT-15;SNYS;79080
+Mauritania;1080;1677852;Mauritania 2015;14/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;234089;0;MRT-15/SNYS/79080/R/561;World Food Programme;Commitment;2015;MRT-15;SNYS;79080
+Mauritania;1080;954402;Mauritania 2015;23/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;227205;0;MRT-15/H/76904/R/561;World Food Programme;Paid contribution;2015;MRT-15;H;76904
+Mauritania;1080;764524;Mauritania 2015;06/06/14;United States of America;16534;Mauritania 2015;227733;0;MRT-15/CSS/76948/561;World Food Programme;Paid contribution;2015;MRT-15;CSS;76948
+Mauritania;1080;1776210;Mauritania 2015;22/04/15;Various Donors (details not yet provided);16534;Mauritania 2015;228811;0;MRT-15/SNYS/81242/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;SNYS;81242
+Mauritania;1080;2000000;Mauritania 2015;24/02/15;Japan;16534;Mauritania 2015;225613;0;MRT-15/H/76904/R/561;World Food Programme;Paid contribution;2015;MRT-15;H;76904
+Mauritania;1080;3200000;Mauritania 2015;24/02/15;Japan;16534;Mauritania 2015;225614;0;MRT-15/MS/76103/R/120;United Nations High Commissioner for Refugees;Paid contribution;2015;MRT-15;MS;76103
+Mauritania;1080;113630;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;225616;1;MRT-15/P-HR-RL/76356/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;P-HR-RL;76356
+Mauritania;1080;900000;Mauritania 2015;24/02/15;Japan;16534;Mauritania 2015;225617;0;MRT-15/H/76912/R/1171;United Nations Population Fund;Paid contribution;2015;MRT-15;H;76912
+Mauritania;1080;1174497;Mauritania 2015;09/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;233905;0;MRT-15/A/77138/5647;ACF - Spain;Commitment;2015;MRT-15;A;77138
+Mauritania;1080;392817;Mauritania 2015;19/03/15;Spain;16534;Mauritania 2015;227380;0;MRT-15/F/76841/R/7854;Oxfam Intermon;Commitment;2015;MRT-15;F;76841
+Mauritania;1080;561167;Mauritania 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;227381;0;MRT-15/MS/76863/R/5647;ACF - Spain;Commitment;2015;MRT-15;MS;76863
+Mauritania;1080;360222;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;233675;1;MRT-15/MS/76908/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;MS;76908
+Mauritania;1080;150359;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;228805;1;MRT-15/WS/76980/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;WS;76980
+Mauritania;1080;288517;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;228806;1;MRT-15/WS/76800/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;WS;76800
+Mauritania;1080;2354036;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;228807;1;MRT-15/H/76923/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;H;76923
+Mauritania;1080;295853;Mauritania 2015;03/06/15;United Nations Children's Fund;16534;Mauritania 2015;228809;1;MRT-15/H/76961/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;H;76961
+Mauritania;1080;2200000;Mauritania 2015;24/02/15;Japan;16534;Mauritania 2015;228810;0;MRT-15/SNYS/81242/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;SNYS;81242
+Mauritania;1080;1739618;Mauritania 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;227204;0;MRT-15/H/76935/R/5647;ACF - Spain;Commitment;2015;MRT-15;H;76935
+Mauritania;1080;64436;Mauritania 2015;06/04/15;Various Donors (details not yet provided);16534;Mauritania 2015;227737;0;MRT-15/SNYS/79080/R/561;World Food Programme;Paid contribution;2015;MRT-15;SNYS;79080
+Mauritania;1080;1;Mauritania 2015;06/04/15;Allocation of unearmarked funds by WFP;16534;Mauritania 2015;227738;0;MRT-15/SNYS/79080/R/561;World Food Programme;Paid contribution;2015;MRT-15;SNYS;79080
+Mauritania;1080;2500000;Mauritania 2015;24/02/15;Japan;16534;Mauritania 2015;227739;0;MRT-15/SNYS/79080/R/561;World Food Programme;Paid contribution;2015;MRT-15;SNYS;79080
+Mauritania;1080;1907969;Mauritania 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16534;Mauritania 2015;227203;0;MRT-15/F/76841/R/7854;Oxfam Intermon;Commitment;2015;MRT-15;F;76841
+Mauritania;1080;352345;Mauritania 2015;06/04/15;Various Donors (details not yet provided);16534;Mauritania 2015;227734;0;MRT-15/CSS/76948/561;World Food Programme;Paid contribution;2015;MRT-15;CSS;76948
+Mauritania;1080;429;Mauritania 2015;06/04/15;Various Donors (details not yet provided);16534;Mauritania 2015;227736;0;MRT-15/SNYS/79080/R/561;World Food Programme;Paid contribution;2015;MRT-15;SNYS;79080
+Mauritania;1080;170947;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;233673;1;MRT-15/MS/76353/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;MS;76353
+Mauritania;1080;954899;Mauritania 2015;06/04/15;World Food Programme;16534;Mauritania 2015;227740;1;MRT-15/F/77106/561;World Food Programme;Paid contribution;2015;MRT-15;F;77106
+Mauritania;1080;227566;Mauritania 2015;24/02/15;United Nations Children's Fund;16534;Mauritania 2015;233671;1;MRT-15/P-HR-RL/77252/R/124;United Nations Children's Fund;Paid contribution;2015;MRT-15;P-HR-RL;77252
+Mauritania;1080;2075325;Mauritania 2015;06/04/15;World Food Programme;16534;Mauritania 2015;227742;1;MRT-15/H/77097/R/561;World Food Programme;Paid contribution;2015;MRT-15;H;77097
+Mauritania;1080;166782;Mauritania 2015;31/03/15;Canada;16534;Mauritania 2015;227750;0;MRT-15/H/76904/R/561;World Food Programme;Paid contribution;2015;MRT-15;H;76904
+Mauritania;1080;130001;Mauritania 2015;09/02/15;Switzerland;16534;Mauritania 2015;227751;0;MRT-15/H/76904/R/561;World Food Programme;Paid contribution;2015;MRT-15;H;76904
+Mauritania;1080;2794209;Mauritania 2015;09/01/15;United States of America;16534;Mauritania 2015;227752;0;MRT-15/H/76904/R/561;World Food Programme;Paid contribution;2015;MRT-15;H;76904
+Niger;1081;349995;Niger 2015;28/04/15;Central Emergency Response Fund;16535;Niger 2015;229180;1;NIG-15/H/76359/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;H;76359
+Niger;1081;108342;Niger 2015;06/04/15;Spain;16535;Niger 2015;227777;0;NIG-15/WS/76956/5647;ACF - Spain;Commitment;2015;NIG-15;WS;76956
+Niger;1081;314658;Niger 2015;23/04/15;Central Emergency Response Fund;16535;Niger 2015;228900;1;NIG-15/H/76510/1171;United Nations Population Fund;Paid contribution;2015;NIG-15;H;76510
+Niger;1081;649977;Niger 2015;23/04/15;Central Emergency Response Fund;16535;Niger 2015;228902;1;NIG-15/H/76327/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;H;76327
+Niger;1081;249955;Niger 2015;23/04/15;Central Emergency Response Fund;16535;Niger 2015;228904;1;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;1314083;Niger 2015;23/04/15;Central Emergency Response Fund;16535;Niger 2015;228906;1;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;416233;Niger 2015;24/02/15;Switzerland;16535;Niger 2015;225252;0;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NIG-15;MS;76888
+Niger;1081;222773;Niger 2015;17/04/15;Various Donors (details not yet provided);16535;Niger 2015;230458;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;2360347;Niger 2015;23/03/15;Canada;16535;Niger 2015;228252;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;429633;Niger 2015;10/04/15;Sweden;16535;Niger 2015;231656;0;NIG-15/H/77439/6079;Save the Children ;Commitment;2015;NIG-15;H;77439
+Niger;1081;597657;Niger 2015;30/03/15;Sweden;16535;Niger 2015;228304;0;NIG-15/H/76977/8058;Islamic Relief Worldwide;Commitment;2015;NIG-15;H;76977
+Niger;1081;908802;Niger 2015;21/04/15;Allocation of unearmarked funds by UNICEF;16535;Niger 2015;228681;0;NIG-15/SNYS/78667/R/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;SNYS;78667
+Niger;1081;159328;Niger 2015;21/04/15;United Nations Children's Fund;16535;Niger 2015;228684;1;NIG-15/WS/76910/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;WS;76910
+Niger;1081;376000;Niger 2015;28/04/15;Central Emergency Response Fund;16535;Niger 2015;229178;1;NIG-15/WS/76897/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;WS;76897
+Niger;1081;8163;Niger 2015;06/06/14;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;230461;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;1442944;Niger 2015;27/04/15;Central Emergency Response Fund;16535;Niger 2015;229107;1;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NIG-15;MS;76888
+Niger;1081;499706;Niger 2015;27/04/15;Central Emergency Response Fund;16535;Niger 2015;229109;1;NIG-15/CSS/76542/561;World Food Programme;Paid contribution;2015;NIG-15;CSS;76542
+Niger;1081;5700000;Niger 2015;15/05/15;United States of America;16535;Niger 2015;231860;0;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NIG-15;MS;76888
+Niger;1081;150000;Niger 2015;15/05/15;Economic Community of West African States;16535;Niger 2015;231861;0;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NIG-15;MS;76888
+Niger;1081;749474;Niger 2015;21/04/15;United Nations Children's Fund;16535;Niger 2015;228686;1;NIG-15/H/76359/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;H;76359
+Niger;1081;311895;Niger 2015;01/04/15;France;16535;Niger 2015;232933;0;NIG-15/A/76001/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;NIG-15;A;76001
+Niger;1081;600000;Niger 2015;27/05/15;United States of America;16535;Niger 2015;232934;0;NIG-15/F/75993/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;NIG-15;F;75993
+Niger;1081;1176474;Niger 2015;15/01/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;229233;0;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;6500542;Niger 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;229063;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;200000;Niger 2015;10/03/15;Various Donors (details not yet provided);16535;Niger 2015;230455;0;NIG-15/CSS/76542/561;World Food Programme;Paid contribution;2015;NIG-15;CSS;76542
+Niger;1081;600000;Niger 2015;13/04/15;United States of America;16535;Niger 2015;230456;0;NIG-15/CSS/76542/561;World Food Programme;Paid contribution;2015;NIG-15;CSS;76542
+Niger;1081;1625135;Niger 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;230459;0;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;8000000;Niger 2015;01/05/15;United States of America;16535;Niger 2015;230457;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;300000;Niger 2015;26/03/15;Japan;16535;Niger 2015;227453;0;NIG-15/ER/76950/776;United Nations Development Programme;Paid contribution;2015;NIG-15;ER;76950
+Niger;1081;250000;Niger 2015;26/03/15;Luxembourg;16535;Niger 2015;227454;0;NIG-15/ER/76950/776;United Nations Development Programme;Paid contribution;2015;NIG-15;ER;76950
+Niger;1081;433369;Niger 2015;22/04/15;France;16535;Niger 2015;230023;0;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NIG-15;MS;76888
+Niger;1081;28232;Niger 2015;31/03/15;Canada;16535;Niger 2015;228411;0;NIG-15/CSS/75786/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NIG-15;CSS;75786
+Niger;1081;92531;Niger 2015;09/06/15;Norway;16535;Niger 2015;233608;0;NIG-15/CSS/75786/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NIG-15;CSS;75786
+Niger;1081;543478;Niger 2015;09/02/15;Switzerland;16535;Niger 2015;226678;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;18264277;Niger 2015;12/03/15;United States of America;16535;Niger 2015;226679;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;7856341;Niger 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;227355;0;NIG-15/ER/76128/6079;Save the Children ;Commitment;2015;NIG-15;ER;76128
+Niger;1081;336700;Niger 2015;05/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;227356;0;NIG-15/H/76928/5167;Cooperazione Internazionale - COOPI;Commitment;2015;NIG-15;H;76928
+Niger;1081;596303;Niger 2015;04/05/15;Sweden;16535;Niger 2015;230804;0;NIG-15/A/76001/123;Food & Agriculture Organization of the United Nations;Commitment;2015;NIG-15;A;76001
+Niger;1081;2490102;Niger 2015;18/03/15;Various Donors (details not yet provided);16535;Niger 2015;226672;0;NIG-15/CSS/76542/561;World Food Programme;Paid contribution;2015;NIG-15;CSS;76542
+Niger;1081;4629732;Niger 2015;09/01/15;United States of America;16535;Niger 2015;226673;0;NIG-15/F/77747/561;World Food Programme;Paid contribution;2015;NIG-15;F;77747
+Niger;1081;7463678;Niger 2015;06/03/15;United States of America;16535;Niger 2015;226674;0;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;660000;Niger 2015;18/03/15;Allocation of unearmarked funds by WFP;16535;Niger 2015;226675;0;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;2704153;Niger 2015;18/03/15;Various Donors (details not yet provided);16535;Niger 2015;226680;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;1749600;Niger 2015;30/06/15;United States of America;16535;Niger 2015;233979;0;NIG-15/SNYS/78667/R/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;SNYS;78667
+Niger;1081;5000000;Niger 2015;18/03/15;Japan;16535;Niger 2015;227051;0;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NIG-15;MS;76888
+Niger;1081;1517250;Niger 2015;24/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;227138;0;NIG-15/F/75934/8498;Concern Worldwide;Commitment;2015;NIG-15;F;75934
+Niger;1081;566893;Niger 2015;18/02/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;225090;0;NIG-15/H/76890/8772;Médecins du Monde France;Commitment;2015;NIG-15;H;76890
+Niger;1081;1142682;Niger 2015;24/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;227139;0;NIG-15/H/75933/8498;Concern Worldwide;Commitment;2015;NIG-15;H;75933
+Niger;1081;382068;Niger 2015;16/03/15;Sweden;16535;Niger 2015;226771;0;NIG-15/CSS/75786/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NIG-15;CSS;75786
+Niger;1081;1083424;Niger 2015;14/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;230460;0;NIG-15/F/77747/561;World Food Programme;Paid contribution;2015;NIG-15;F;77747
+Niger;1081;559284;Niger 2015;18/06/15;Germany;16535;Niger 2015;233065;0;NIG-15/WS/76897/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;WS;76897
+Niger;1081;580585;Niger 2015;17/04/15;Sweden;16535;Niger 2015;230847;0;NIG-15/SNYS/78667/R/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;SNYS;78667
+Niger;1081;300000;Niger 2015;03/06/15;United States of America;16535;Niger 2015;231974;0;NIG-15/CSS/75786/119;Office for the Coordination of Humanitarian Affairs;Pledge;2015;NIG-15;CSS;75786
+Niger;1081;272331;Niger 2015;09/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;232287;0;NIG-15/H/76976/13863;Alliance for International Medical Action;Commitment;2015;NIG-15;H;76976
+Niger;1081;700000;Niger 2015;23/07/15;United States of America;16535;Niger 2015;234442;0;NIG-15/P-HR-RL/76046/5179;International Rescue Committee;Commitment;2015;NIG-15;P-HR-RL;76046
+Niger;1081;453515;Niger 2015;10/02/15;Germany;16535;Niger 2015;225842;0;NIG-15/WS/76896/16237;OXFAM;Commitment;2015;NIG-15;WS;76896
+Niger;1081;1600000;Niger 2015;16/03/15;Japan;16535;Niger 2015;226433;0;NIG-15/H/76473/122;World Health Organization;Paid contribution;2015;NIG-15;H;76473
+Niger;1081;3791983;Niger 2015;03/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;228662;0;NIG-15/H/76976/13863;Alliance for International Medical Action;Commitment;2015;NIG-15;H;76976
+Niger;1081;619958;Niger 2015;24/04/15;Central Emergency Response Fund;16535;Niger 2015;228999;1;NIG-15/P-HR-RL/76130/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;P-HR-RL;76130
+Niger;1081;650000;Niger 2015;09/03/15;Japan;16535;Niger 2015;225029;0;NIG-15/CSS/75786/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NIG-15;CSS;75786
+Niger;1081;120000;Niger 2015;07/05/15;Canada;16535;Niger 2015;231201;0;NIG-15/F/77747/561;World Food Programme;Paid contribution;2015;NIG-15;F;77747
+Niger;1081;2000000;Niger 2015;14/05/15;United States of America;16535;Niger 2015;231202;0;NIG-15/F/77748/561;World Food Programme;Paid contribution;2015;NIG-15;F;77748
+Niger;1081;595185;Niger 2015;27/04/15;Central Emergency Response Fund;16535;Niger 2015;229105;1;NIG-15/S-NF/76123/298;International Organization for Migration;Paid contribution;2015;NIG-15;S-NF;76123
+Niger;1081;1680205;Niger 2015;07/05/15;Carry-over (donors not specified);16535;Niger 2015;230462;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;553360;Niger 2015;01/04/15;Canada;16535;Niger 2015;230846;0;NIG-15/SNYS/78667/R/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;SNYS;78667
+Niger;1081;202020;Niger 2015;26/02/15;UNICEF National Committee/France;16535;Niger 2015;226537;0;NIG-15/H/76359/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;H;76359
+Niger;1081;437877;Niger 2015;17/04/15;Sweden;16535;Niger 2015;231697;0;NIG-15/ER/76053/5179;International Rescue Committee;Commitment;2015;NIG-15;ER;76053
+Niger;1081;464468;Niger 2015;14/04/15;Sweden;16535;Niger 2015;231683;0;NIG-15/WS/76956/5647;ACF - Spain;Commitment;2015;NIG-15;WS;76956
+Niger;1081;243043;Niger 2015;18/02/15;Sweden;16535;Niger 2015;231757;0;NIG-15/A/76001/123;Food & Agriculture Organization of the United Nations;Commitment;2015;NIG-15;A;76001
+Niger;1081;1525054;Niger 2015;01/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16535;Niger 2015;231889;0;NIG-15/MS/76888/120;United Nations High Commissioner for Refugees;Commitment;2015;NIG-15;MS;76888
+Niger;1081;3983241;Niger 2015;18/03/15;Various Donors (details not yet provided);16535;Niger 2015;226681;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;13910001;Niger 2015;18/03/15;Allocation of unearmarked funds by WFP;16535;Niger 2015;226682;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;5150000;Niger 2015;17/02/15;Japan;16535;Niger 2015;226677;0;NIG-15/SNYS/78671/R/561;World Food Programme;Paid contribution;2015;NIG-15;SNYS;78671
+Niger;1081;15895096;Niger 2015;18/03/15;World Food Programme;16535;Niger 2015;226683;1;NIG-15/F/76438/561;World Food Programme;Paid contribution;2015;NIG-15;F;76438
+Niger;1081;27887211;Niger 2015;18/03/15;World Food Programme;16535;Niger 2015;226685;1;NIG-15/F/76441/561;World Food Programme;Paid contribution;2015;NIG-15;F;76441
+Niger;1081;15638086;Niger 2015;18/03/15;World Food Programme;16535;Niger 2015;226687;1;NIG-15/H/76461/561;World Food Programme;Paid contribution;2015;NIG-15;H;76461
+Niger;1081;28136;Niger 2015;03/02/15;Switzerland;16535;Niger 2015;227824;0;NIG-15/WS/76910/124;United Nations Children's Fund;Paid contribution;2015;NIG-15;WS;76910
+Niger;1081;297679;Niger 2015;28/04/15;Central Emergency Response Fund;16535;Niger 2015;229182;1;NIG-15/H/77203/122;World Health Organization;Paid contribution;2015;NIG-15;H;77203
+Nigeria;1082;1083424;Nigeria 2015;29/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;229436;0;NGA-15/A/78092/5362;OXFAM Netherlands (NOVIB);Commitment;2015;NGA-15;A;78092
+Nigeria;1082;3295934;Nigeria 2015;04/05/15;Central Emergency Response Fund;16536;Nigeria 2015;229640;1;NGA-15/H/77973/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;H;77973
+Nigeria;1082;260146;Nigeria 2015;24/02/15;Switzerland;16536;Nigeria 2015;225251;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;147929;Nigeria 2015;10/12/14;United Kingdom ;16536;Nigeria 2015;232105;0;NGA-15/CSS/78045/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NGA-15;CSS;78045
+Nigeria;1082;1813677;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234248;1;NGA-15/H/77973/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;H;77973
+Nigeria;1082;1547209;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234250;1;NGA-15/WS/77992/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;WS;77992
+Nigeria;1082;510204;Nigeria 2015;13/02/15;France;16536;Nigeria 2015;231938;0;NGA-15/F/78104/5186;Action Contre la Faim;Commitment;2015;NGA-15;F;78104
+Nigeria;1082;239905;Nigeria 2015;05/03/15;Sweden;16536;Nigeria 2015;226994;0;NGA-15/P-HR-RL/77883/6079;Save the Children ;Commitment;2015;NGA-15;P-HR-RL;77883
+Nigeria;1082;4936;Nigeria 2015;15/05/15;Private (individuals & organisations);16536;Nigeria 2015;231862;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;240;Nigeria 2015;15/05/15;Private (individuals & organisations);16536;Nigeria 2015;231863;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;2199134;Nigeria 2015;30/04/15;Central Emergency Response Fund;16536;Nigeria 2015;229416;1;NGA-15/A/77987/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;NGA-15;A;77987
+Nigeria;1082;561167;Nigeria 2015;03/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;225758;0;NGA-15/CSS/78045/119;Office for the Coordination of Humanitarian Affairs;Commitment;2015;NGA-15;CSS;78045
+Nigeria;1082;500000;Nigeria 2015;22/04/15;Denmark;16536;Nigeria 2015;230021;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;448934;Nigeria 2015;22/04/15;Private (individuals & organisations);16536;Nigeria 2015;230022;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;28232;Nigeria 2015;31/03/15;Canada;16536;Nigeria 2015;228410;0;NGA-15/CSS/78045/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NGA-15;CSS;78045
+Nigeria;1082;562642;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234246;1;NGA-15/E/77989/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;E;77989
+Nigeria;1082;2805836;Nigeria 2015;26/02/15;Germany;16536;Nigeria 2015;225724;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Commitment;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;2295803;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234252;1;NGA-15/H/78062/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;H;78062
+Nigeria;1082;824657;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234255;1;NGA-15/H/78011/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;H;78011
+Nigeria;1082;794552;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234257;1;NGA-15/P-HR-RL/78012/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;P-HR-RL;78012
+Nigeria;1082;522947;Nigeria 2015;20/07/15;United Nations Children's Fund;16536;Nigeria 2015;234259;1;NGA-15/P-HR-RL/77967/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;P-HR-RL;77967
+Nigeria;1082;3400000;Nigeria 2015;02/03/15;Japan;16536;Nigeria 2015;226474;0;NGA-15/SNYS/78657/R/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;SNYS;78657
+Nigeria;1082;561167;Nigeria 2015;11/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;226702;0;NGA-15/A/77976/123;Food & Agriculture Organization of the United Nations;Commitment;2015;NGA-15;A;77976
+Nigeria;1082;501670;Nigeria 2015;01/05/15;Central Emergency Response Fund;16536;Nigeria 2015;229555;1;NGA-15/H/77978/1171;United Nations Population Fund;Paid contribution;2015;NGA-15;H;77978
+Nigeria;1082;1479870;Nigeria 2015;01/05/15;Central Emergency Response Fund;16536;Nigeria 2015;229557;1;NGA-15/S-NF/78035/298;International Organization for Migration;Paid contribution;2015;NGA-15;S-NF;78035
+Nigeria;1082;1109375;Nigeria 2015;01/05/15;Central Emergency Response Fund;16536;Nigeria 2015;229559;1;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;403254;Nigeria 2015;01/05/15;Central Emergency Response Fund;16536;Nigeria 2015;229561;1;NGA-15/P-HR-RL/78012/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;P-HR-RL;78012
+Nigeria;1082;566893;Nigeria 2015;18/03/15;European Commission;16536;Nigeria 2015;227050;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;382068;Nigeria 2015;16/03/15;Sweden;16536;Nigeria 2015;226770;0;NGA-15/CSS/78045/119;Office for the Coordination of Humanitarian Affairs;Paid contribution;2015;NGA-15;CSS;78045
+Nigeria;1082;4100000;Nigeria 2015;23/07/15;United States of America;16536;Nigeria 2015;234443;0;NGA-15/P-HR-RL/78083/120;United Nations High Commissioner for Refugees;Paid contribution;2015;NGA-15;P-HR-RL;78083
+Nigeria;1082;3817800;Nigeria 2015;01/04/15;United States of America;16536;Nigeria 2015;233980;0;NGA-15/SNYS/78657/R/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;SNYS;78657
+Nigeria;1082;592885;Nigeria 2015;01/04/15;Canada;16536;Nigeria 2015;230848;0;NGA-15/SNYS/78657/R/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;SNYS;78657
+Nigeria;1082;58411;Nigeria 2015;02/06/15;Denmark;16536;Nigeria 2015;233141;0;NGA-15/P-HR-RL/77883/6079;Save the Children ;Commitment;2015;NGA-15;P-HR-RL;77883
+Nigeria;1082;610022;Nigeria 2015;22/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;233142;0;NGA-15/SNYS/78657/R/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;SNYS;78657
+Nigeria;1082;785634;Nigeria 2015;20/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;226914;0;NGA-15/H/78086/5160;International Medical Corps;Commitment;2015;NGA-15;H;78086
+Nigeria;1082;500000;Nigeria 2015;26/06/15;Nigeria;16536;Nigeria 2015;234452;0;NGA-15/A/77976/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;NGA-15;A;77976
+Nigeria;1082;888801;Nigeria 2015;20/07/15;Various Donors (details not yet provided);16536;Nigeria 2015;234245;0;NGA-15/SNYS/78657/R/124;United Nations Children's Fund;Paid contribution;2015;NGA-15;SNYS;78657
+Nigeria;1082;650054;Nigeria 2015;23/04/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;229210;0;NGA-15/H/78102/5186;Action Contre la Faim;Commitment;2015;NGA-15;H;78102
+Nigeria;1082;1274938;Nigeria 2015;01/05/15;United States of America;16536;Nigeria 2015;229907;0;NGA-15/CSS/78045/119;Office for the Coordination of Humanitarian Affairs;Pledge;2015;NGA-15;CSS;78045
+Nigeria;1082;3000000;Nigeria 2015;23/07/15;United States of America;16536;Nigeria 2015;234444;0;NGA-15/CSS/78031/298;International Organization for Migration;Commitment;2015;NGA-15;CSS;78031
+Nigeria;1082;199837;Nigeria 2015;29/04/15;Central Emergency Response Fund;16536;Nigeria 2015;229266;1;NGA-15/S/78121/5139;United Nations Department of Safety and Security;Paid contribution;2015;NGA-15;S;78121
+Nigeria;1082;45676;Nigeria 2015;13/02/15;Denmark;16536;Nigeria 2015;224897;0;NGA-15/P-HR-RL/77883/6079;Save the Children ;Commitment;2015;NGA-15;P-HR-RL;77883
+Nigeria;1082;1120897;Nigeria 2015;23/03/15;Canada;16536;Nigeria 2015;228101;0;NGA-15/WS/78103/5186;Action Contre la Faim;Commitment;2015;NGA-15;WS;78103
+Nigeria;1082;2300000;Nigeria 2015;20/03/15;Japan;16536;Nigeria 2015;230524;0;NGA-15/H/77978/1171;United Nations Population Fund;Paid contribution;2015;NGA-15;H;77978
+Nigeria;1082;553097;Nigeria 2015;08/05/15;European Commission's Humanitarian Aid and Civil Protection Department;16536;Nigeria 2015;230525;0;NGA-15/F/78104/5186;Action Contre la Faim;Commitment;2015;NGA-15;F;78104
+Region;1084;500000;Sahel Regional 2015;01/01/15;United States of America;16538;Sahel 2015;233870;0;SAH-15/CSS/77676/123;Food & Agriculture Organization of the United Nations;Commitment;2015;SAH-15;CSS;77676
+Region;1084;1083424;Sahel Regional 2015;11/03/15;Finland;16538;Sahel 2015;231265;0;SAH-15/CSS/77676/123;Food & Agriculture Organization of the United Nations;Paid contribution;2015;SAH-15;CSS;77676
+Senegal;1083;1064724;Senegal 2015;08/01/15;World Food Programme;16537;Senegal 2015;226526;1;SEN-15/F/76777/561;World Food Programme;Paid contribution;2015;SEN-15;F;76777
+Senegal;1083;1525282;Senegal 2015;08/01/15;World Food Programme;16537;Senegal 2015;226528;1;SEN-15/F/76784/561;World Food Programme;Paid contribution;2015;SEN-15;F;76784
+Senegal;1083;59400;Senegal 2015;08/01/15;World Food Programme;16537;Senegal 2015;226530;1;SEN-15/H/76791/561;World Food Programme;Paid contribution;2015;SEN-15;H;76791
+Senegal;1083;2649406;Senegal 2015;08/01/15;United States of America;16537;Senegal 2015;226525;0;SEN-15/SNYS/78664/R/561;World Food Programme;Paid contribution;2015;SEN-15;SNYS;78664
+Senegal;1083;782998;Senegal 2015;07/07/15;European Commission's Humanitarian Aid and Civil Protection Department;16537;Senegal 2015;233811;0;SEN-15/H/76222/5647;ACF - Spain;Commitment;2015;SEN-15;H;76222
+Senegal;1083;740741;Senegal 2015;26/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16537;Senegal 2015;227354;0;SEN-15/ER/76036/6458;Agency for Technical Cooperation and Development;Commitment;2015;SEN-15;ER;76036
+Senegal;1083;620915;Senegal 2015;02/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16537;Senegal 2015;232041;0;SEN-15/ER/76036/6458;Agency for Technical Cooperation and Development;Commitment;2015;SEN-15;ER;76036
+Senegal;1083;762527;Senegal 2015;02/06/15;European Commission's Humanitarian Aid and Civil Protection Department;16537;Senegal 2015;232042;0;SEN-15/SNYS/78664/R/561;World Food Programme;Commitment;2015;SEN-15;SNYS;78664
+Senegal;1083;1683502;Senegal 2015;09/03/15;European Commission's Humanitarian Aid and Civil Protection Department;16537;Senegal 2015;226705;0;SEN-15/H/76222/5647;ACF - Spain;Commitment;2015;SEN-15;H;76222
