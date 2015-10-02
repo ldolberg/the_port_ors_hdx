@@ -1,0 +1,35 @@
+#Avez vous connaissance des risques liés aux mines et explosifs de guerre ?
+curl 'https://mali.ureport.in/pollquestion/465/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/160/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:36:16 GMT' -H 'Cache-Control: max-age=0' --compressed
+
+#Comment avez vous eu l'information ?
+
+curl 'https://mali.ureport.in/pollquestion/466/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/160/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:36:16 GMT' -H 'Cache-Control: max-age=0' --compressed
+
+#Y'a-t-il beaucoup de mendiant dans ta ville/village ?
+curl 'https://mali.ureport.in/pollquestion/510/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/184/' -H 'X-Requested-With: XMLHttpRequest' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' --compressed
+
+#Selon toi, quelle est l'origine de la mendicité ?
+curl 'https://mali.ureport.in/pollquestion/511/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/184/' -H 'X-Requested-With: XMLHttpRequest' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' --compressed
+
+#Sais-tu qu'il y a une loi en vigueur qui interdit la mendicité sous toutes ses formes ?
+curl 'https://mali.ureport.in/pollquestion/512/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/184/' -H 'X-Requested-With: XMLHttpRequest' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' --compressed
+
+
+Es-tu pour ou contre le mariage avant 18 ans ?
+curl 'https://mali.ureport.in/pollquestion/507/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/183/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:38:25 GMT' --compressed
+
+Es-tu au courant des conséquences du mariage précoce sur les jeunes filles ?
+curl 'https://mali.ureport.in/pollquestion/508/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/183/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:38:25 GMT' --compressed
+
+Et toi, te sens-tu concerné par le mariage précoce ?
+curl 'https://mali.ureport.in/pollquestion/509/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/183/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:38:25 GMT' --compressed
+
+
+Avez vous connaissance des risques liés aux mines et explosifs de guerre ?
+curl 'https://mali.ureport.in/pollquestion/465/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/160/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:36:16 GMT' --compressed
+
+
+Comment avez vous eu l'information ?
+curl 'https://mali.ureport.in/pollquestion/466/results/?segment=%7B%22location%22%3A%22State%22%7D' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,es;q=0.6,de;q=0.4,it;q=0.2,pt;q=0.2,ru;q=0.2,fr;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://mali.ureport.in/poll/160/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'If-Modified-Since: Fri, 02 Oct 2015 07:36:16 GMT' --compressed
+
+Quelles sont les autres sources d'information ?
