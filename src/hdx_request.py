@@ -105,6 +105,7 @@ def get_ors_tags():
 	return result
 
 if __name__ == '__main__':
-	print get_ors_tags()
-
+	#print get_ors_tags()
+	pp = pprint.PrettyPrinter(indent=2)
+        pp.pprint(get_ors_tags())
 
