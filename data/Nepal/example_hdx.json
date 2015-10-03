@@ -1,0 +1,173 @@
+{
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "eb19fcf4-51f6-424d-944c-fdc02279045c",
+    "extras": {
+        "key": [
+            "caveats",
+            "data_update_frequency",
+            "dataset_date",
+            "dataset_source",
+            "indicator",
+            "license_other",
+            "methodology",
+            "methodology_other",
+            "package_creator",
+            "solr_additions",
+            "subnational"
+        ],
+        "value": [
+            "Additionally, the reports in this data are referencing Nepal government, UN, and other data sources for analysis purposes. The data still needs a tab showing attribution to other sources (e.g. Nepal Government, UN). This data is going through an ongoing validation process to identify inaccurate data, missing agencies and quality control. We would greatly appreciate your help to do validation and quality control on the data. Please email nepal@sheltercluster.org to share observations. ",
+            "14",
+            "08/16/2015",
+            "Shelter Cluster Partner Agencies",
+            "0",
+            "",
+            "Direct Observational Data/Anecdotal Data",
+            "",
+            "scnepal",
+            "{\"countries\": [\"Nepal\"]}",
+            "1"
+        ]
+    },
+    "groups": {
+        "description": [
+            "",
+            "This will be a placeholder for all information related to the earthquake in Nepal."
+        ],
+        "display_name": [
+            "Nepal",
+            "Nepal Earthquake"
+        ],
+        "id": [
+            "npl",
+            "fba94eb6-a73b-407d-8acd-c16e61e4f0dc"
+        ],
+        "image_display_url": [
+            "",
+            ""
+        ],
+        "name": [
+            "npl",
+            "nepal-earthquake"
+        ],
+        "title": [
+            "Nepal",
+            "Nepal Earthquake"
+        ]
+    },
+    "id": "59269deb-c9fa-4f29-9ce3-c494a4046a95",
+    "isopen": false,
+    "license_id": "hdx-odc-odbl",
+    "license_title": "hdx-odc-odbl",
+    "maintainer": "scnepal",
+    "maintainer_email": "",
+    "metadata_created": "2015-06-05T06:20:25.294468",
+    "metadata_modified": "2015-10-03T04:19:16.852169",
+    "name": "scnepal-agency-data",
+    "notes": "The Shelter Cluster Nepal agency data tracker and reports file is a compilation of all partner agency data on distribution, training, and cash and the planning status of these items for the 2015 Nepal Earthquake. The data has been submitted in the Shelter Cluster template since the beginning to the the most recent update is updated every Tuesday and Friday. This data is going through an ongoing validation process to identify inaccurate data, missing agencies and quality control. We would greatly appreciate your help to do validation and quality control on the data. Please email nepal@sheltercluster.org to share observations.",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "approval_status": "approved",
+        "created": "2015-06-04T14:29:51.225617",
+        "description": "The Global Shelter Cluster (GSC) is an Inter-Agency Standing Committee (IASC) coordination mechanism that supports people affected by natural disasters and internally displaced people affected by conflict with the means to live in safe, dignified and appropriate shelter. The GSC enables better coordination among all shelter actors, including local and national governments, so that people who need shelter assistance get help faster and receive the right kind of support.\r\n\r\nThe GSC is co-chaired by IFRC and UNHCR at the global level. IFRC is the convener of the Shelter Cluster in natural disasters while UNHCR leads the Shelter Cluster in conflict situations.",
+        "id": "79d6d591-c6ef-46d6-a6ba-e5bc1a055a1d",
+        "image_url": "",
+        "is_organization": true,
+        "name": "global-shelter-cluster",
+        "revision_id": "f3a4dd5a-0dab-4178-af64-df1241e9aa48",
+        "state": "active",
+        "title": "Global Shelter Cluster",
+        "type": "organization"
+    },
+    "owner_org": "79d6d591-c6ef-46d6-a6ba-e5bc1a055a1d",
+    "private": false,
+    "relationships_as_object": [],
+    "relationships_as_subject": [],
+    "resources": {
+        "cache_last_updated": "NA",
+        "cache_url": "NA",
+        "created": "2015-06-05T06:24:23.711252",
+        "description": "Includes several hidden columns for reference purposes and validation purposes. Validation formulas have been removed. Pivot tables and hard coded formulas are in use in order to perform ongoing updates as status of data shifts each update.",
+        "format": "XLSX",
+        "hash": "",
+        "id": "b0436452-d48d-48b6-9a80-08987b065b16",
+        "last_modified": "NA",
+        "mimetype": "NA",
+        "mimetype_inner": "NA",
+        "name": "DatabaseV5.0_03_10_2015for HDX.xlsx",
+        "package_id": "59269deb-c9fa-4f29-9ce3-c494a4046a95",
+        "position": 0,
+        "resource_type": "file.upload",
+        "resource_uploader": "scnepal",
+        "revision_id": "e8cb20ee-e97a-4b9f-8795-ec8797f58a6a",
+        "size": "NA",
+        "state": "active",
+        "tracking_summary": {
+            "recent": 182,
+            "total": 434
+        },
+        "url": "http://data.hdx.rwlabs.org/dataset/59269deb-c9fa-4f29-9ce3-c494a4046a95/resource/b0436452-d48d-48b6-9a80-08987b065b16/download/DatabaseV5.0_03_10_2015for-HDX.xlsx",
+        "url_type": "upload",
+        "webstore_last_updated": "NA",
+        "webstore_url": "NA"
+    },
+    "revision_id": "33d705b0-e66e-4ea4-abdc-908203d987bc",
+    "state": "active",
+    "tags": {
+        "display_name": [
+            "cluster",
+            "data",
+            "earthquake",
+            "eq-2015-000048-npl",
+            "nepal",
+            "shelter",
+            "sheltering"
+        ],
+        "id": [
+            "8fdea964-4311-4a02-9dd9-6462f67545bf",
+            "ccdfa9dc-2542-436f-84ec-773de6c0982f",
+            "373e99a6-13eb-4b5a-abb2-4bc0f9f939fa",
+            "8fcc591b-0ee6-4316-977e-72504895995f",
+            "be3899ef-c31a-4234-994f-67b4b84f7470",
+            "39a0e0ed-b80c-47f0-b85b-de285da319f1",
+            "3a25c0f4-edc8-4b15-be1a-ec505fef4927"
+        ],
+        "name": [
+            "cluster",
+            "data",
+            "earthquake",
+            "eq-2015-000048-npl",
+            "nepal",
+            "shelter",
+            "sheltering"
+        ],
+        "state": [
+            "active",
+            "active",
+            "active",
+            "active",
+            "active",
+            "active",
+            "active"
+        ],
+        "vocabulary_id": [
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ]
+    },
+    "title": "Shelter Cluster Nepal Agency Data Tracker & Reports",
+    "tracking_summary": {
+        "recent": 80,
+        "total": 1223
+    },
+    "type": "dataset",
+    "url": null,
+    "version": null
+}
