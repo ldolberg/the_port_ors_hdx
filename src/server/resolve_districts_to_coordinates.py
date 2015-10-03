@@ -32,5 +32,5 @@ def get_coordinates(d):
 
 
 if __name__ == '__main__':
-	for d in districts:
-		print get_coordinates(d)
+	print {d:get_coordinates(d) for d in districts}
+		
