@@ -1,0 +1,1225 @@
+[
+		{
+			"Name":"kanchanpur",
+			"lat":"28.83333",
+			"long":"80.33333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage":0
+		        }
+		}
+		],[
+		{
+			"Name":"palpa",
+			"lat":"27.75",
+			"long":"83.83333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 4,
+		            "#1 Concern percentage":66.666667.2
+		        }
+		}
+		],[
+		{
+			"Name":"sankhuwasabha",
+			"lat":"27.58333",
+			"long":"87.33333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":50.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"rupandehi",
+			"lat":"27.66667",
+			"long":"83.41667",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"lamjung",
+			"lat":"28.48914",
+			"long":"84.1884",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 202,
+		            "#1 Concern percentage":88.986784.2
+		        }
+		}
+		],[
+		{
+			"Name":"arghakhanchi",
+			"lat":"27.91667",
+			"long":"83.08333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":50.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"makwanpur",
+			"lat":"27.41667",
+			"long":"85.25",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage":0
+		        }
+		}
+		],[
+		{
+			"Name":"bara",
+			"lat":"26.75",
+			"long":"81",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"dhankuta",
+			"lat":"26.98333",
+			"long":"87.33333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 2,
+		            "#1 Concern percentage":66.666667.2
+		        }
+		}
+		],[
+		{
+			"Name":"parsa",
+			"lat":"34.92466",
+			"long":"68.64761",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"sindhuli",
+			"lat":"27.2799",
+			"long":"85.98421",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 140,
+		            "#1 Concern percentage":58.577406.2
+		        }
+		}
+		],[
+		{
+			"Name":"makawanpur",
+			"lat":"27.41429",
+			"long":"85.17962",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 80,
+		            "#1 Concern percentage":43.715847.2
+		        }
+		}
+		],[
+		{
+			"Name":"morang",
+			"lat":"-37.65",
+			"long":"145.1",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"sarlahi",
+			"lat":"27",
+			"long":"85.58333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"kaski",
+			"lat":"28.33333",
+			"long":"84",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 5,
+		            "#1 Concern percentage":21.739130.2
+		        }
+		}
+		],[
+		{
+			"Name":"chitawan",
+			"lat":"27.68333",
+			"long":"84.43333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 7,
+		            "#1 Concern percentage":70.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"baglung",
+			"lat":"28.27189",
+			"long":"83.58976",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 21,
+		            "#1 Concern percentage":91.304348.2
+		        }
+		}
+		],[
+		{
+			"Name":"panchthar",
+			"lat":"27.16667",
+			"long":"87.83333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 20,
+		            "#1 Concern percentage":95.238095.2
+		        }
+		}
+		],[
+		{
+			"Name":"kabhrepalanchok",
+			"lat":"0",
+			"long":"0",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 389,
+		            "#1 Concern percentage":63.252033.2
+		        }
+		}
+		],[
+		{
+			"Name":"khotang",
+			"lat":"27.25",
+			"long":"86.83333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 69,
+		            "#1 Concern percentage":50.364964.2
+		        }
+		}
+		],[
+		{
+			"Name":"dang",
+			"lat":"31.0699",
+			"long":"120.87635",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"okhaldhunga",
+			"lat":"27.31032",
+			"long":"86.50502",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 105,
+		            "#1 Concern percentage":52.500000.2
+		        }
+		}
+		],[
+		{
+			"Name":"gorkha",
+			"lat":"28.00242",
+			"long":"84.62009",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 631,
+		            "#1 Concern percentage":75.029727.2
+		        }
+		}
+		],[
+		{
+			"Name":"baitadi",
+			"lat":"29.57113",
+			"long":"80.43722",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 2,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"taplejung",
+			"lat":"27.35",
+			"long":"87.66667",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 2,
+		            "#1 Concern percentage":6.896552.2
+		        }
+		}
+		],[
+		{
+			"Name":"kabhrepalanchok",
+			"lat":"0",
+			"long":"0",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 389,
+		            "#1 Concern percentage":63.252033.2
+		        }
+		}
+		],[
+		{
+			"Name":"kavrepalanchok",
+			"lat":"27.58333",
+			"long":"85.66667",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage":0
+		        }
+		}
+		],[
+		{
+			"Name":"ilam",
+			"lat":"33.6374",
+			"long":"46.4227",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"mustang",
+			"lat":"29.18321",
+			"long":"83.95634",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":33.333333.2
+		        }
+		}
+		],[
+		{
+			"Name":"lalitpur",
+			"lat":"27.67658",
+			"long":"85.31417",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 274,
+		            "#1 Concern percentage":69.367089.2
+		        }
+		}
+		],[
+		{
+			"Name":"solukhumbu",
+			"lat":"27.75",
+			"long":"86.75",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 79,
+		            "#1 Concern percentage":50.641026.2
+		        }
+		}
+		],[
+		{
+			"Name":"sunsari",
+			"lat":"26.66667",
+			"long":"87.16667",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":33.333333.2
+		        }
+		}
+		],[
+		{
+			"Name":"bhojpur",
+			"lat":"25.30886",
+			"long":"84.44504",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 4,
+		            "#1 Concern percentage":57.142857.2
+		        }
+		}
+		],[
+		{
+			"Name":"rasuwa",
+			"lat":"27.08617",
+			"long":"86.42758",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 309,
+		            "#1 Concern percentage":62.550607.2
+		        }
+		}
+		],[
+		{
+			"Name":"parbat",
+			"lat":"35.23731",
+			"long":"74.58914",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 7,
+		            "#1 Concern percentage":46.666667.2
+		        }
+		}
+		],[
+		{
+			"Name":"gulmi",
+			"lat":"28.06941",
+			"long":"83.24536",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 3,
+		            "#1 Concern percentage":60.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"nawalparasi",
+			"lat":"27.66667",
+			"long":"83.91667",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 21,
+		            "#1 Concern percentage":75.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"tbd",
+			"lat":"33.22661",
+			"long":"69.77123",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage":0
+		        }
+		}
+		],[
+		{
+			"Name":"jhapa",
+			"lat":"22.57314",
+			"long":"89.39283",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 1,
+		            "#1 Concern percentage":100.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"siraha",
+			"lat":"26.65411",
+			"long":"86.2087",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage":0
+		        }
+		}
+		],[
+		{
+			"Name":"dolakha",
+			"lat":"27.68027",
+			"long":"86.0701",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 416,
+		            "#1 Concern percentage":62.934947.2
+		        }
+		}
+		],[
+		{
+			"Name":"dhading",
+			"lat":"27.86424",
+			"long":"84.9283",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 348,
+		            "#1 Concern percentage":65.536723.2
+		        }
+		}
+		],[
+		{
+			"Name":"sindhupalchok",
+			"lat":"27.82936",
+			"long":"85.54504",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 937,
+		            "#1 Concern percentage":67.264896.2
+		        }
+		}
+		],[
+		{
+			"Name":"bhaktapur",
+			"lat":"27.67298",
+			"long":"85.43005",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 107,
+		            "#1 Concern percentage":72.297297.2
+		        }
+		}
+		],[
+		{
+			"Name":"ramechhap",
+			"lat":"27.32207",
+			"long":"86.05913",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 153,
+		            "#1 Concern percentage":48.113208.2
+		        }
+		}
+		],[
+		{
+			"Name":"syangja",
+			"lat":"28.09596",
+			"long":"83.87243",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 4,
+		            "#1 Concern percentage":33.333333.2
+		        }
+		}
+		],[
+		{
+			"Name":"tanahu",
+			"lat":"27.91667",
+			"long":"84.25",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 6,
+		            "#1 Concern percentage":33.333333.2
+		        }
+		}
+		],[
+		{
+			"Name":"nuwakot",
+			"lat":"28",
+			"long":"83.83333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 198,
+		            "#1 Concern percentage":51.295337.2
+		        }
+		}
+		],[
+		{
+			"Name":"udayapur",
+			"lat":"26.94167",
+			"long":"86.52031",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 8,
+		            "#1 Concern percentage":53.333333.2
+		        }
+		}
+		],[
+		{
+			"Name":"kathmandu",
+			"lat":"27.70169",
+			"long":"85.3206",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 280,
+		            "#1 Concern percentage":70.175439.2
+		        }
+		}
+		],[
+		{
+			"Name":"myagdi",
+			"lat":"28.58333",
+			"long":"83.33333",
+			"tag": "housing",
+			"type": "humanitarian",
+			"d":{
+		            "#1 Concern": 3,
+		            "#1 Concern percentage":75.000000.2
+		        }
+		}
+		],[
+		{
+			"Name":"kanchanpur",
+			"lat":"28.83333",
+			"long":"80.33333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"palpa",
+			"lat":"27.75",
+			"long":"83.83333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"sankhuwasabha",
+			"lat":"27.58333",
+			"long":"87.33333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"rupandehi",
+			"lat":"27.66667",
+			"long":"83.41667",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"lamjung",
+			"lat":"28.48914",
+			"long":"84.1884",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"arghakhanchi",
+			"lat":"27.91667",
+			"long":"83.08333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"makwanpur",
+			"lat":"27.41667",
+			"long":"85.25",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 135,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"bara",
+			"lat":"26.75",
+			"long":"81",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"dhankuta",
+			"lat":"26.98333",
+			"long":"87.33333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"parsa",
+			"lat":"34.92466",
+			"long":"68.64761",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"sindhuli",
+			"lat":"27.2799",
+			"long":"85.98421",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 139,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"makawanpur",
+			"lat":"27.41429",
+			"long":"85.17962",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"morang",
+			"lat":"-37.65",
+			"long":"145.1",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"sarlahi",
+			"lat":"27",
+			"long":"85.58333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"kaski",
+			"lat":"28.33333",
+			"long":"84",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"chitawan",
+			"lat":"27.68333",
+			"long":"84.43333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"baglung",
+			"lat":"28.27189",
+			"long":"83.58976",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"panchthar",
+			"lat":"27.16667",
+			"long":"87.83333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"kabhrepalanchok",
+			"lat":"0",
+			"long":"0",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"khotang",
+			"lat":"27.25",
+			"long":"86.83333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"dang",
+			"lat":"31.0699",
+			"long":"120.87635",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"okhaldhunga",
+			"lat":"27.31032",
+			"long":"86.50502",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 54,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"gorkha",
+			"lat":"28.00242",
+			"long":"84.62009",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 104,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"baitadi",
+			"lat":"29.57113",
+			"long":"80.43722",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"taplejung",
+			"lat":"27.35",
+			"long":"87.66667",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"kabhrepalanchok",
+			"lat":"0",
+			"long":"0",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"kavrepalanchok",
+			"lat":"27.58333",
+			"long":"85.66667",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 159,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"ilam",
+			"lat":"33.6374",
+			"long":"46.4227",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"mustang",
+			"lat":"29.18321",
+			"long":"83.95634",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"lalitpur",
+			"lat":"27.67658",
+			"long":"85.31417",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 161,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"solukhumbu",
+			"lat":"27.75",
+			"long":"86.75",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"sunsari",
+			"lat":"26.66667",
+			"long":"87.16667",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"bhojpur",
+			"lat":"25.30886",
+			"long":"84.44504",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"rasuwa",
+			"lat":"27.08617",
+			"long":"86.42758",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 134,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"parbat",
+			"lat":"35.23731",
+			"long":"74.58914",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"gulmi",
+			"lat":"28.06941",
+			"long":"83.24536",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"nawalparasi",
+			"lat":"27.66667",
+			"long":"83.91667",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"tbd",
+			"lat":"33.22661",
+			"long":"69.77123",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"jhapa",
+			"lat":"22.57314",
+			"long":"89.39283",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"siraha",
+			"lat":"26.65411",
+			"long":"86.2087",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"dolakha",
+			"lat":"27.68027",
+			"long":"86.0701",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 172,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"dhading",
+			"lat":"27.86424",
+			"long":"84.9283",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 113,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"sindhupalchok",
+			"lat":"27.82936",
+			"long":"85.54504",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"bhaktapur",
+			"lat":"27.67298",
+			"long":"85.43005",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 128,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"ramechhap",
+			"lat":"27.32207",
+			"long":"86.05913",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 111,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"syangja",
+			"lat":"28.09596",
+			"long":"83.87243",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"tanahu",
+			"lat":"27.91667",
+			"long":"84.25",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"nuwakot",
+			"lat":"28",
+			"long":"83.83333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 158,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"udayapur",
+			"lat":"26.94167",
+			"long":"86.52031",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"kathmandu",
+			"lat":"27.70169",
+			"long":"85.3206",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 141,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		],[
+		{
+			"Name":"myagdi",
+			"lat":"28.58333",
+			"long":"83.33333",
+			"tag": "housing",
+			"type": "feedback",
+			"d":{
+		            "#1 Concern": 0,
+		            "#1 Concern percentage": 0
+		        }
+		}
+		]
