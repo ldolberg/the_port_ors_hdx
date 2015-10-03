@@ -23,3 +23,30 @@ def total_percent_from_district_tag(district, tag, df):
     surveyed_ppl_from_district = df[df['District']==district]['Count'].sum()
     percentage = total/surveyed_ppl_from_district
     return total, percentage
+
+def slice_df(df, query={}): 
+    # -- approach two (builds slicing vector, *then* applies it)
+    # -- more efficient
+    
+    # I'm assuming query is a dictionary                                                                                                                                             
+    # query = {'Tag':tag, 'District':district, 'Gender':gender, 'Ethnicity':ethnicity}
+    # -- select fields s.t. the df has them
+    valid_query_args = list(df.columns)
+    ret = df.copy()
+    
+    for requirement, value in query.iteritems():
+        if requirement in valid_query_args:
+            if requirement != 'Tag':
+                ret = ret[ret[requirement] == value] # slicing without Tag
+     
+     denominator = ret['Count'].sum()    
+     ret = ret[ret['Tag'] == query['Tag']] # slicing with Tag
+     numerator = ret['Count'].sum()                          
+     total = numerator
+     percentage = numerator/max(denominator,1)
+     return total, percentage
+
+
+    
+               
+    
