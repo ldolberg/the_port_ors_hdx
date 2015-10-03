@@ -1,15 +1,9 @@
 
-# coding: utf-8
-
-# In[79]:
-
 import math
 import operator
 import json
 from geopy.distance import great_circle
 
-
-# In[90]:
 
 class Order_districts():
     
@@ -20,12 +14,7 @@ class Order_districts():
         return district_dict
 
 
-# In[134]:
-
 get_district_info(); # test for json reading
-
-
-# In[128]:
 
 def distance(lat0, lon0, lat, lon):
     '''
@@ -40,9 +29,6 @@ def e_distance(x,y,w,z):
     a = math.pow(x - w,2)
     b = math.pow(y - z,2)
     return math.sqrt(a+b)  
-
-
-# In[131]:
 
 def order_districts(lat0, lon0, district_dict):
     '''
@@ -66,19 +52,3 @@ def order_districts(lat0, lon0, district_dict):
     sorted_districts = sorted(distance_dict.items(), key=operator.itemgetter(1))
 
     return zip(*sorted_districts) 
-
-
-# In[136]:
-
-#order_districts(27.67298,85.43005,get_district_info())[0] # test for distance
-
-
-# In[121]:
-
-
-
-
-# In[ ]:
-
-
-
