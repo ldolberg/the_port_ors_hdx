@@ -1,0 +1,38 @@
+[
+	{
+		"Name":"name",
+		"lat":"1.000",
+		"long":"2.000",
+		"tag": "education",
+		"type": "feedback",
+		"d":{
+			"#1 Concern Ratio":"1",
+			"#2concern region total":"1",
+			"#3concern..":"1"
+		}
+	},
+	{
+		"Name":"name",
+		"lat":"1.000",
+		"long":"2.000",
+		"tag": "education",
+		"type": "feedback",
+		"d":{
+			"#1 Concern Ratio":"1",
+			"#2concern region total":"1",
+			"#3concern..":"1"
+		}
+	},
+	{
+		"Name":"name",
+		"lat":"1.000",
+		"long":"2.000",
+		"tag": "education",
+		"type": "feedback",
+		"d":{
+			"#1 Concern Ratio":"1",
+			"#2concern region total":"1",
+			"#3concern..":"1"
+		}
+	},
+}
