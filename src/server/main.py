@@ -22,6 +22,9 @@ humanitarian = json.loads('''{
 "Action.type": [ "housing", "health", "housing", "health", "housing", "housing", "housing", "financial", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "housing", "financial", "Labor", "health", "housing", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "health", "housing", "housing", "housing", "financial", "health", "housing", "health", "financial", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "health", "housing", "financial", "health", "housing", "housing", "health", "housing", "health", "housing", "health", "housing", "financial", "Labor", "health", "housing", "financial", "health", "housing", "health", "housing", "health", "housing", "health", "housing", "housing", "financial", "health", "housing", "financial", "Labor", "health", "housing", "housing", "health", "housing", "housing", "financial", "health", "housing", "financial", "health", "housing", "health", "financial", "Labor", "health", "housing", "health", "housing", "financial", "health", "housing", "health", "financial", "health", "housing", "health", "housing", "financial", "health", "housing", "housing", "health", "housing" ],
 "total": [ 2, 1, 1, 2, 21, 2, 1, 13, 28, 107, 1, 2, 4, 1, 2, 7, 1, 55, 2, 126, 348, 1, 2, 92, 153, 416, 53, 157, 631, 2, 3, 1, 1, 19, 207, 389, 1, 10, 8, 5, 29, 90, 280, 1, 67, 69, 49, 71, 274, 25, 202, 58, 45, 80, 1, 2, 1, 1, 3, 7, 21, 68, 2, 118, 198, 1, 94, 105, 2, 4, 1, 20, 8, 7, 1, 75, 90, 153, 4, 1, 180, 309, 1, 1, 1, 1, 38, 59, 140, 87, 369, 937, 1, 1, 10, 66, 79, 2, 1, 1, 7, 4, 2, 5, 7, 6, 27, 2, 1, 6, 8, 1, 1, 1 ] 
 }''')
+baseline = json.loads('''
+{"District":["Taplejung","Panchthar","Ilam","Jhapa","Morang","Sunsari","Dhankuta","Terhathum","Sankhuwasabha","Bhojpur","Solukhumbu","Khotang","Okhaldhunga","Udayapur","Saptari","Siraha","Dhanusha","Mahottari","Sarlahi","Sindhuli","Ramechhap","Dolakha","Sindhupalchok","Kabhrepalanchok","Lalitpur","Bhaktapur","Kathmandu","Nuwakot","Rasuwa","Dhading","Makawanpur","Rautahat","Bara","Parsa","Chitawan","Gorkha","Lamjung","Manang","Kaski","Tanahu","Syangja","Parbat","Baglung","Myagdi","Mustang","Palpa","Nawalparasi","Rupandehi","Kapilbastu","Arghakhanchi","Gulmi","Rukum","Salyan","Rolpa","Pyuthan","Dang","Banke","Bardiya","Surkhet","Jajarkot","Dailekh","Dolpa","Jumla","Kalikot","Mugu","Humla","Bajhang","Bajura","Achham","Doti","Kailali","Kanchanpur","Dadeldhura","Baitadi","Darchula","","Taplejung","Panchthar","Ilam","Jhapa","Morang","Sunsari","Dhankuta","Terhathum","Sankhuwasabha","Bhojpur","Solukhumbu","Khotang","Okhaldhunga","Udayapur","Saptari","Siraha","Dhanusha","Mahottari","Sarlahi","Sindhuli","Ramechhap","Dolakha","Sindhupalchok","Kabhrepalanchok","Lalitpur","Bhaktapur","Kathmandu","Nuwakot","Rasuwa","Dhading","Makawanpur","Rautahat","Bara","Parsa","Chitawan","Gorkha","Lamjung","Manang","Kaski","Tanahu","Syangja","Parbat","Baglung","Myagdi","Mustang","Palpa","Nawalparasi","Rupandehi","Kapilbastu","Arghakhanchi","Gulmi","Rukum","Salyan","Rolpa","Pyuthan","Dang","Banke","Bardiya","Surkhet","Jajarkot","Dailekh","Dolpa","Jumla","Kalikot","Mugu","Humla","Bajhang","Bajura","Achham","Doti","Kailali","Kanchanpur","Dadeldhura","Baitadi","Darchula","","Taplejung","Panchthar","Ilam","Jhapa","Morang","Sunsari","Dhankuta","Terhathum","Sankhuwasabha","Bhojpur","Solukhumbu","Khotang","Okhaldhunga","Udayapur","Saptari","Siraha","Dhanusha","Mahottari","Sarlahi","Sindhuli","Ramechhap","Dolakha","Sindhupalchok","Kabhrepalanchok","Lalitpur","Bhaktapur","Kathmandu","Nuwakot","Rasuwa","Dhading","Makawanpur","Rautahat","Bara","Parsa","Chitawan","Gorkha","Lamjung","Manang","Kaski","Tanahu","Syangja","Parbat","Baglung","Myagdi","Mustang","Palpa","Nawalparasi","Rupandehi","Kapilbastu","Arghakhanchi","Gulmi","Rukum","Salyan","Rolpa","Pyuthan","Dang","Banke","Bardiya","Surkhet","Jajarkot","Dailekh","Dolpa","Jumla","Kalikot","Mugu","Humla","Bajhang","Bajura","Achham","Doti","Kailali","Kanchanpur","Dadeldhura","Baitadi","Darchula",""],"Action.type":["housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial"],"total":[26509,41196,64502,184552,213997,162407,37637,22094,34624,39419,23785,42664,32502,66557,121098,177962,138249,111316,132844,57581,43910,45688,66688,80720,109797,68636,436344,59215,9778,73851,86127,106668,108635,95536,132462,66506,42079,1400,125673,78309,68881,35719,61522,27762,3354,128793,128793,163916,91321,46835,64921,19303,47730,23013,7488,9619,94773,73176,72863,30472,48919,41856,9479,116415,43757,46558,33786,24908,48351,41440,142480,82152,27045,45191,24618,"NA",1,0,0,1,2,9,0,1,0,2,20,0,20,1,0,1,1,3,2,15,39,170,3440,318,176,333,1222,1089,597,733,33,3,2,6,10,447,5,0,3,0,1,0,1,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8712,4,229,316,95,3,2,929,91,1327,1414,9172,2110,10031,95,0,0,4,500,0,18197,26743,48880,63885,49933,17444,18900,36973,57943,7040,43741,15012,70,50,0,472,44382,8472,63,1744,4877,5003,2541,1877,115,56,1434,879,1,0,189,2100,136,24,62,3,7,0,0,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,505577]}
+''')
 
 class DataLocator:
     """ Inteface / Abstract Class concept for readability. """
@@ -66,7 +69,35 @@ class DataLocatorBaseline(DataLocator):
     ''' Locates images in database. '''
     def find(self, image):
         #in reality, query database for image path
-        return ["Baseline Data"]
+		dname = Coord2District().get_district(coord)[0][0]
+		district_coordinates = districts[dname]
+		q = request.args.get("q")
+		
+		t = []
+		k = baseline.keys()[0]
+		
+		for i in xrange(0,len(baseline[k])):
+			if (baseline['District'][i] == dname) & (baseline['Action.type'][i] == q ):
+				t.append(baseline['total'][i])
+				break
+		s = sum([float(baseline['total'][i]) for i in xrange(0,len(baseline[k])) if baseline['District'][i] == dname]) 	
+		s = (t[0] / s) * 100
+		t.append("%f.2"%s)	
+		
+		d = '''[
+		{
+			"Name":"%s",
+			"lat":"%s",
+			"long":"%s",
+			"tag": "%s",
+			"type": "baseline",
+			"d":{
+		            "#1 Concern": %s,
+		            "#1 Concern percentage":%s
+		        }
+		}
+		]''' % (dname,district_coordinates[0],district_coordinates[1],q,t[0],t[1])
+		return d
 
 class Coord2District():
 	def get_district(self,coord):
