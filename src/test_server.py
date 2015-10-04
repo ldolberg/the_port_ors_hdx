@@ -13,7 +13,7 @@ districts = json.loads('''{"kavrepalanchok": ["27.58333", "85.66667"], "dolakha"
 
 if __name__ == '__main__':
 	r = []
-	for t in ["humanitarian","feedback"]:
+	for t in ["humanitarian","feedback","baseline"]:
 		for d,coord in districts.iteritems():
 			x = coord[0]
 			y = coord[1]
