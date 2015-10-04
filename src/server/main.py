@@ -19,7 +19,7 @@ districts = json.loads('''{"kavrepalanchok": ["27.58333", "85.66667"], "dolakha"
 
 humanitarian = json.loads('''{
  "District": [ "", "arghakhanchi", "arghakhanchi", "baglung", "baglung", "baitadi", "bara", "bhaktapur", "bhaktapur", "bhaktapur", "bhojpur", "bhojpur", "bhojpur", "chitawan", "chitawan", "chitawan", "dang", "dhading", "dhading", "dhading", "dhading", "dhankuta", "dhankuta", "dolakha", "dolakha", "dolakha", "gorkha", "gorkha", "gorkha", "gulmi", "gulmi", "ilam", "jhapa", "kabhrepalanchok", "kabhrepalanchok", "kabhrepalanchok", "kanchanpur", "kaski", "kaski", "kaski", "kathmandu", "kathmandu", "kathmandu", "khotang", "khotang", "khotang", "lalitpur", "lalitpur", "lalitpur", "lamjung", "lamjung", "makawanpur", "makawanpur", "makawanpur", "morang", "mustang", "mustang", "myagdi", "myagdi", "nawalparasi", "nawalparasi", "nuwakot", "nuwakot", "nuwakot", "nuwakot", "okhaldhunga", "okhaldhunga", "okhaldhunga", "palpa", "palpa", "panchthar", "panchthar", "parbat", "parbat", "parsa", "ramechhap", "ramechhap", "ramechhap", "rasuwa", "rasuwa", "rasuwa", "rasuwa", "rupandehi", "sankhuwasabha", "sankhuwasabha", "sarlahi", "sindhuli", "sindhuli", "sindhuli", "sindhupalchok", "sindhupalchok", "sindhupalchok", "siraha", "solukhumbu", "solukhumbu", "solukhumbu", "solukhumbu", "sunsari", "sunsari", "syangja", "syangja", "syangja", "tbd", "tanahu", "tanahu", "tanahu", "taplejung", "taplejung", "udayapur", "udayapur", "udayapur", "lalitpur", "sindhuli", "sindhuli" ],
-"Action.type": [ "housing", "health", "housing", "health", "housing", "housing", "housing", "finantial", "health", "housing", "finantial", "health", "housing", "finantial", "health", "housing", "housing", "finantial", "Labor", "health", "housing", "health", "housing", "finantial", "health", "housing", "finantial", "health", "housing", "health", "housing", "housing", "housing", "finantial", "health", "housing", "health", "finantial", "health", "housing", "finantial", "health", "housing", "finantial", "health", "housing", "finantial", "health", "housing", "health", "housing", "finantial", "health", "housing", "housing", "health", "housing", "health", "housing", "health", "housing", "finantial", "Labor", "health", "housing", "finantial", "health", "housing", "health", "housing", "health", "housing", "health", "housing", "housing", "finantial", "health", "housing", "finantial", "Labor", "health", "housing", "housing", "health", "housing", "housing", "finantial", "health", "housing", "finantial", "health", "housing", "health", "finantial", "Labor", "health", "housing", "health", "housing", "finantial", "health", "housing", "health", "finantial", "health", "housing", "health", "housing", "finantial", "health", "housing", "housing", "health", "housing" ],
+"Action.type": [ "housing", "health", "housing", "health", "housing", "housing", "housing", "financial", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "housing", "financial", "Labor", "health", "housing", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "health", "housing", "housing", "housing", "financial", "health", "housing", "health", "financial", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "financial", "health", "housing", "health", "housing", "financial", "health", "housing", "housing", "health", "housing", "health", "housing", "health", "housing", "financial", "Labor", "health", "housing", "financial", "health", "housing", "health", "housing", "health", "housing", "health", "housing", "housing", "financial", "health", "housing", "financial", "Labor", "health", "housing", "housing", "health", "housing", "housing", "financial", "health", "housing", "financial", "health", "housing", "health", "financial", "Labor", "health", "housing", "health", "housing", "financial", "health", "housing", "health", "financial", "health", "housing", "health", "housing", "financial", "health", "housing", "housing", "health", "housing" ],
 "total": [ 2, 1, 1, 2, 21, 2, 1, 13, 28, 107, 1, 2, 4, 1, 2, 7, 1, 55, 2, 126, 348, 1, 2, 92, 153, 416, 53, 157, 631, 2, 3, 1, 1, 19, 207, 389, 1, 10, 8, 5, 29, 90, 280, 1, 67, 69, 49, 71, 274, 25, 202, 58, 45, 80, 1, 2, 1, 1, 3, 7, 21, 68, 2, 118, 198, 1, 94, 105, 2, 4, 1, 20, 8, 7, 1, 75, 90, 153, 4, 1, 180, 309, 1, 1, 1, 1, 38, 59, 140, 87, 369, 937, 1, 1, 10, 66, 79, 2, 1, 1, 7, 4, 2, 5, 7, 6, 27, 2, 1, 6, 8, 1, 1, 1 ] 
 }''')
 
@@ -55,10 +55,10 @@ class DataLocatorFeedback(DataLocator):
 			"type": "feedback",
 			"d":{
 		            "#1 Concern": %s,
-		            "#1 Concern percentage":%s
+		            "#1 Concern percentage":%2.f
 		        }
 		}
-		]''' % (dname,district_coordinates[0],district_coordinates[1],q,t[0],t[1])    
+		]''' % (dname,district_coordinates[0],district_coordinates[1],q,t[0],float(t[1]))    
 		return d
 
 
@@ -87,8 +87,11 @@ class DataLocatorHumanitarian(DataLocator):
 				t.append(humanitarian['total'][i])
 				break
 		s = sum([float(humanitarian['total'][i]) for i in xrange(0,len(humanitarian[k])) if humanitarian['District'][i] == dname]) 	
-		s = (t[0] / s) * 100
-		t.append("%f.2"%s)	
+		if len(t) > 0:
+			s = (t[0] / s) * 100
+			t.append("%f.2"%s)
+		else:
+			t = [0,0]	
 		
 		d = '''[
 		{
