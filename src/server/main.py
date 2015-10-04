@@ -26,6 +26,10 @@ baseline = json.loads('''
 {"District":["taplejung","panchthar","ilam","jhapa","morang","sunsari","dhankuta","terhathum","sankhuwasabha","bhojpur","solukhumbu","khotang","okhaldhunga","udayapur","saptari","siraha","dhanusha","mahottari","sarlahi","sindhuli","ramechhap","dolakha","sindhupalchok","kabhrepalanchok","lalitpur","bhaktapur","kathmandu","nuwakot","rasuwa","dhading","makawanpur","rautahat","bara","parsa","chitawan","gorkha","lamjung","manang","kaski","tanahu","syangja","parbat","baglung","myagdi","mustang","palpa","nawalparasi","rupandehi","kapilbastu","arghakhanchi","gulmi","rukum","salyan","rolpa","pyuthan","dang","banke","bardiya","surkhet","jajarkot","dailekh","dolpa","jumla","kalikot","mugu","humla","bajhang","bajura","achham","doti","kailali","kanchanpur","dadeldhura","baitadi","darchula","","taplejung","panchthar","ilam","jhapa","morang","sunsari","dhankuta","terhathum","sankhuwasabha","bhojpur","solukhumbu","khotang","okhaldhunga","udayapur","saptari","siraha","dhanusha","mahottari","sarlahi","sindhuli","ramechhap","dolakha","sindhupalchok","kabhrepalanchok","lalitpur","bhaktapur","kathmandu","nuwakot","rasuwa","dhading","makawanpur","rautahat","bara","parsa","chitawan","gorkha","lamjung","manang","kaski","tanahu","syangja","parbat","baglung","myagdi","mustang","palpa","nawalparasi","rupandehi","kapilbastu","arghakhanchi","gulmi","rukum","salyan","rolpa","pyuthan","dang","banke","bardiya","surkhet","jajarkot","dailekh","dolpa","jumla","kalikot","mugu","humla","bajhang","bajura","achham","doti","kailali","kanchanpur","dadeldhura","baitadi","darchula","","taplejung","panchthar","ilam","jhapa","morang","sunsari","dhankuta","terhathum","sankhuwasabha","bhojpur","solukhumbu","khotang","okhaldhunga","udayapur","saptari","siraha","dhanusha","mahottari","sarlahi","sindhuli","ramechhap","dolakha","sindhupalchok","kabhrepalanchok","lalitpur","bhaktapur","kathmandu","nuwakot","rasuwa","dhading","makawanpur","rautahat","bara","parsa","chitawan","gorkha","lamjung","manang","kaski","tanahu","syangja","parbat","baglung","myagdi","mustang","palpa","nawalparasi","rupandehi","kapilbastu","arghakhanchi","gulmi","rukum","salyan","rolpa","pyuthan","dang","banke","bardiya","surkhet","jajarkot","dailekh","dolpa","jumla","kalikot","mugu","humla","bajhang","bajura","achham","doti","kailali","kanchanpur","dadeldhura","baitadi","darchula",""],"Action.type":["housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","housing","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","health","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial","finantial"],"total":[26509,41196,64502,184552,213997,162407,37637,22094,34624,39419,23785,42664,32502,66557,121098,177962,138249,111316,132844,57581,43910,45688,66688,80720,109797,68636,436344,59215,9778,73851,86127,106668,108635,95536,132462,66506,42079,1400,125673,78309,68881,35719,61522,27762,3354,128793,128793,163916,91321,46835,64921,19303,47730,23013,7488,9619,94773,73176,72863,30472,48919,41856,9479,116415,43757,46558,33786,24908,48351,41440,142480,82152,27045,45191,24618,"NA",1,0,0,1,2,9,0,1,0,2,20,0,20,1,0,1,1,3,2,15,39,170,3440,318,176,333,1222,1089,597,733,33,3,2,6,10,447,5,0,3,0,1,0,1,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8712,4,229,316,95,3,2,929,91,1327,1414,9172,2110,10031,95,0,0,4,500,0,18197,26743,48880,63885,49933,17444,18900,36973,57943,7040,43741,15012,70,50,0,472,44382,8472,63,1744,4877,5003,2541,1877,115,56,1434,879,1,0,189,2100,136,24,62,3,7,0,0,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,505577]}
 ''')
 
+concern_by_tag = {"feedback": {"housing": "Is it your main concern?", "health":  "Is it your main concern?", "finantial": "Is it your main concern?" },
+"baseline": {"housing": "Households", "health":  "Deaths", "finantial": "Public buildings destroyed" },
+"humanitarian": {"housing": "Households", "health":  "Rescued people", "finantial": "Restored infrastructure" }}
+
 class DataLocator:
     """ Inteface / Abstract Class concept for readability. """
 
@@ -49,6 +53,7 @@ class DataLocatorFeedback(DataLocator):
 		district_coordinates = districts[dname]
 		q = request.args.get("q")
 		t = feedback.return_jsonlist(dname,district_coordinates[0],district_coordinates[1],q)
+                concern = concern_by_tag["feedback"][q]
 		d = '''[
 		{
 			"Name":"%s",
@@ -57,11 +62,11 @@ class DataLocatorFeedback(DataLocator):
 			"tag": "%s",
 			"type": "feedback",
 			"d":{
-		            "#1 Concern": %s,
-		            "#1 Concern percentage":%2.f
+		            "%s": %s,
+		            "%s percentage":%2.f
 		        }
 		}
-		]''' % (dname,district_coordinates[0],district_coordinates[1],q,t[0],float(t[1]))    
+		]''' % (dname,district_coordinates[0],district_coordinates[1],q, concern, t[0], concern, float(t[1]))    
 		return d
 
 
@@ -81,9 +86,11 @@ class DataLocatorBaseline(DataLocator):
 				t.append(baseline['total'][i])
 				break
 		s = sum([float(baseline['total'][i]) for i in xrange(0,len(baseline[k])) if baseline['District'][i] == dname]) 	
+                
 		s = (t[0] / s) * 100
-		t.append("%f.2"%s)	
+		t.append("%2.f"%s)	
 		
+                concern = concern_by_tag["baseline"][q]
 		d = '''[
 		{
 			"Name":"%s",
@@ -92,11 +99,11 @@ class DataLocatorBaseline(DataLocator):
 			"tag": "%s",
 			"type": "baseline",
 			"d":{
-		            "#1 Concern": %s,
-		            "#1 Concern percentage":%s
+		            "%s": %s,
+		            "%s percentage":%2.f
 		        }
 		}
-		]''' % (dname,district_coordinates[0],district_coordinates[1],q,t[0],t[1])
+		]''' % (dname,district_coordinates[0],district_coordinates[1],q, concern, t[0], concern, float(t[1]))    
 		return d
 
 class Coord2District():
@@ -120,10 +127,11 @@ class DataLocatorHumanitarian(DataLocator):
 		s = sum([float(humanitarian['total'][i]) for i in xrange(0,len(humanitarian[k])) if humanitarian['District'][i] == dname]) 	
 		if len(t) > 0:
 			s = (t[0] / s) * 100
-			t.append("%f.2"%s)
+			t.append("%2.f"%s)
 		else:
 			t = [0,0]	
 		
+                concern = concern_by_tag["humanitarian"][q]
 		d = '''[
 		{
 			"Name":"%s",
@@ -132,11 +140,11 @@ class DataLocatorHumanitarian(DataLocator):
 			"tag": "%s",
 			"type": "humanitarian",
 			"d":{
-		            "#1 Concern": %s,
-		            "#1 Concern percentage":%s
+		            "%s": %s,
+		            "%s percentage":%2.f
 		        }
 		}
-		]''' % (dname,district_coordinates[0],district_coordinates[1],q,t[0],t[1])
+		]''' % (dname,district_coordinates[0],district_coordinates[1],q, concern, t[0], concern, float(t[1]))    
 		return d
 
 app = Flask(__name__)
